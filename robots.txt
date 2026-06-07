@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_shell
+Disallow: /_shell.html
+
+Host: www.sportfabrication.com
+Sitemap: https://www.sportfabrication.com/sitemap.xml
