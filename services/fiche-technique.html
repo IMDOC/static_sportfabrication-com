@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Language" content="fr">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://img.berunactivewear.com" crossorigin>
+    <link rel="dns-prefetch" href="//img.berunactivewear.com">
+    <title>Fiche Technique &amp; Développement de Patron | Spécifications</title>
+    <meta name="description" content="Fiche technique et développement de patron de vêtements de sport, du croquis, de la photo ou de l'échantillon vers tableau POM, règle de gradation, liste matières et spécification prête à échantillonner.">
+    <meta name="keywords" content="activewear tech pack service, pattern development, graded pattern set, tech pack factory, sportswear pattern maker, DXF pattern, garment specification, bill of materials">
+    <meta name="author" content="Sport Fabrication">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://www.sportfabrication.com/services/fiche-technique">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="https://img.berunactivewear.com/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://img.berunactivewear.com/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://img.berunactivewear.com/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://img.berunactivewear.com/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://img.berunactivewear.com/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://img.berunactivewear.com/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://img.berunactivewear.com/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://img.berunactivewear.com/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.berunactivewear.com/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://img.berunactivewear.com/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://img.berunactivewear.com/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://img.berunactivewear.com/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://img.berunactivewear.com/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://img.berunactivewear.com/ms-icon-144x144.png">
+    <meta name="theme-color" content="#DC2626">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:url" content="https://www.sportfabrication.com/services/fiche-technique">
+    <meta property="og:title" content="Fiche Technique &amp; Développement de Patron — Du Croquis à la Spec | Sport Fabrication">
+    <meta property="og:description" content="Envoyez un échantillon, un croquis ou des photos. 16 patronniers renvoient une fiche technique graduée en 7-14 jours — USD 220, prête pour la série.">
+    <meta property="og:image" content="https://img.berunactivewear.com/assets/images/og-home.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Sport Fabrication">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fiche Technique &amp; Développement de Patron — Du Croquis à la Spec | Sport Fabrication">
+    <meta name="twitter:description" content="Service de fiche technique : USD 220, 7-14 jours, gradation XS-5XL. 16 patronniers sur la ligne.">
+    <meta name="twitter:image" content="https://img.berunactivewear.com/assets/images/og-home.jpg">
+
+    <!-- JSON-LD: ServicePage + BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Service",
+          "@id": "https://www.sportfabrication.com/services/fiche-technique#service",
+          "name": "Fiche Technique & Développement de Patron",
+          "description": "Service de fiche technique : envoyez un échantillon, un croquis ou des photos — 16 patronniers renvoient une spec graduée (XS-5XL) en 7-14 jours. Forfait USD 220, une révision incluse.",
+          "provider": {
+            "@type": "Organization",
+            "@id": "https://www.sportfabrication.com/#org",
+            "name": "Sport Fabrication",
+            "url": "https://www.sportfabrication.com/",
+            "telephone": "+86-159-0277-8636",
+            "email": "sales@sportfabrication.com"
+          },
+          "serviceType": "Fiche Technique & Développement de Patron",
+          "areaServed": "Worldwide",
+          "offers": {
+            "@type": "Offer",
+            "price": "220",
+            "priceCurrency": "USD",
+            "description": "Flat fee per style — includes one revision round"
+          },
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Livrables de la Fiche Technique",
+            "itemListElement": [
+              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fiche Technique Complète (croquis à plat + tableau de mesures + notes de confection)"}},
+              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Jeu de Patrons Gradués (XS-5XL, DXF ou papier)"}},
+              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Plan de Coupe (rendement matière 85 %+)"}},
+              {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Nomenclature (tissu, fil, élastique, accessoires, étiquettes)"}}
+            ]
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.sportfabrication.com/services/fiche-technique#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://www.sportfabrication.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Services",
+              "item": "https://www.sportfabrication.com/services"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fiche Technique &amp; Patron",
+              "item": "https://www.sportfabrication.com/services/fiche-technique"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://www.sportfabrication.com/services/fiche-technique#webpage",
+          "url": "https://www.sportfabrication.com/services/fiche-technique",
+          "name": "Fiche Technique &amp; Développement de Patron — Du Croquis à la Spec | Sport Fabrication",
+          "isPartOf": {"@id": "https://www.sportfabrication.com/#website"},
+          "breadcrumb": {"@id": "https://www.sportfabrication.com/services/fiche-technique#breadcrumb"},
+          "about": {"@id": "https://www.sportfabrication.com/services/fiche-technique#service"},
+          "inLanguage": "fr"
+        }
+      ]
+    }
+    </script>
+
+    <!-- DNS Prefetch & Preconnect -->
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Google Fonts: Plus Jakarta Sans + Inter -->
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap">
+
+    <!-- Bootstrap 5 + Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Site shared CSS -->
+    <link href="/assets/css/global.css" rel="stylesheet">
+    <link href="/assets/css/topbar.css" rel="stylesheet">
+    <link href="/assets/css/dynamic-menu.css" rel="stylesheet">
+
+    <!-- TopBar / Menu / Footer Configuration -->
+    <script>
+        window.TopBarConfig = {
+            configFile: '/assets/topbar-config.json',
+            backgroundColor: '#1F2937',
+            textColor: '#ffffff',
+            linkColor: '#FCD34D',
+            height: 45,
+            showOnMobile: false,
+            closable: false,
+            zIndex: 1001
+        };
+        window.DynamicMenuConfig = {
+            menuFile: '/assets/menu-config.json',
+            brandColor: '#DC2626',
+            sticky: true
+        };
+        window.FooterConfig = {
+            configFile: '/assets/footer-config.json',
+            backgroundColor: '#1F2937',
+            brandColor: '#DC2626',
+            hoverColor: '#DC2626'
+        };
+    </script>
+
+    <style>
+    /* ==========================================================================
+       Sport Fabrication — Tech-Pack Service Page
+       Design system matched to index.html (yogavendor v4)
+       All CSS inline — no external landing-shell / landing-blocks
+       ========================================================================== */
+
+    :root {
+      --color-primary: #DC2626;
+      --color-primary-dark: #991B1B;
+      --color-secondary: #1F2937;
+      --color-accent: #FCD34D;
+      --color-text: #1A1A1A;
+      --color-muted: #5b6473;
+      --color-bg-tint: #FAF7F2;
+      --color-bg-white: #FFFFFF;
+      --color-border: rgba(15,31,30,0.08);
+      --font-sans: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+      --corp-shadow-1: 0 4px 16px rgba(15,31,30,0.06);
+      --corp-shadow-2: 0 14px 32px rgba(15,31,30,0.10);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding-top: 45px;
+      background: var(--color-bg-tint);
+      font-family: var(--font-sans);
+      color: var(--color-text);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    @media (max-width: 991px) { body { padding-top: 0; } }
+
+    main { display: block; }
+    img { max-width: 100%; height: auto; }
+
+    #dynamic-menu-container { background: #fff; border-bottom: 1px solid #eee; }
+
+    /* ===== Container ===== */
+    .container-bra {
+      max-width: 1320px;
+      padding-left: clamp(16px, 3vw, 32px);
+      padding-right: clamp(16px, 3vw, 32px);
+      margin-inline: auto;
+    }
+
+    /* ===== Section system ===== */
+    .section-corp {
+      display: flex;
+      align-items: center;
+      padding: clamp(80px, 10vh, 120px) 0;
+      position: relative;
+    }
+    .section-corp--compact {
+      min-height: auto;
+    }
+    @media (max-width: 768px) {
+      .section-corp {
+        min-height: auto;
+        padding: clamp(48px, 8vh, 80px) 0;
+      }
+    }
+    .section-corp--white { background: var(--color-bg-white); }
+    .section-corp--tint  { background: var(--color-bg-tint); }
+    .section-corp--ink   { background: var(--color-secondary); color: #FAF7F2; }
+    .section-corp--ink .section-h2 { color: #FFFFFF; }
+    .section-corp--ink .section-sub { color: rgba(250,247,242,0.78); }
+    .section-corp--ink .section-rail { color: var(--color-accent); }
+
+    .section-corp + .section-corp:not(.section-corp--ink):not(.section-corp--ink + .section-corp) {
+      border-top: 1px solid rgba(15,23,42,0.06);
+    }
+
+    /* ===== Section headings ===== */
+    .section-head {
+      text-align: center;
+      margin-bottom: clamp(32px, 5vw, 56px);
+    }
+    .section-rail {
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--color-primary);
+      font-weight: 700;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+    .section-h2 {
+      font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+      font-weight: 800;
+      color: #0F1F1E;
+      letter-spacing: -0.02em;
+      margin: 8px 0 14px;
+      line-height: 1.12;
+    }
+    .section-sub {
+      font-size: clamp(0.9375rem, 1.3vw, 1.125rem);
+      line-height: 1.55;
+      color: var(--color-muted);
+      max-width: 60ch;
+      margin: 0 auto;
+    }
+
+    /* ===== Buttons ===== */
+    .btn-corp {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 52px;
+      padding: 0 28px;
+      font-family: var(--font-sans);
+      font-size: 0.9375rem;
+      font-weight: 600;
+      letter-spacing: 0.005em;
+      border-radius: 8px;
+      text-decoration: none;
+      cursor: pointer;
+      border: 1.5px solid transparent;
+      transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    .btn-corp--primary {
+      background: var(--color-primary);
+      color: #FFFFFF;
+      border-color: var(--color-primary);
+    }
+    .btn-corp--primary:hover {
+      background: var(--color-primary-dark);
+      border-color: var(--color-primary-dark);
+      color: #FFFFFF;
+      transform: translateY(-1px);
+    }
+    .btn-corp--ghost {
+      background: transparent;
+      color: #FFFFFF;
+      border-color: rgba(255,255,255,0.5);
+    }
+    .btn-corp--ghost:hover {
+      background: rgba(255,255,255,0.12);
+      border-color: #FFFFFF;
+      color: #FFFFFF;
+    }
+    .btn-corp--accent {
+      position: relative;
+      overflow: hidden;
+    }
+    .btn-corp--accent::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(110deg, transparent 35%, rgba(255,255,255,0.35) 50%, transparent 65%);
+      transform: translateX(-120%);
+      transition: transform 0.7s ease;
+      pointer-events: none;
+    }
+    .btn-corp--accent:hover::before { transform: translateX(120%); }
+
+    /* ===== Animation ===== */
+    @keyframes corp-rise {
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .anim-rise {
+      opacity: 0;
+      transform: translateY(18px);
+      animation: corp-rise 0.7s cubic-bezier(0.2,0.8,0.2,1) forwards;
+    }
+    .anim-d1 { animation-delay: 0.05s; }
+    .anim-d2 { animation-delay: 0.18s; }
+    .anim-d3 { animation-delay: 0.30s; }
+    .anim-d4 { animation-delay: 0.42s; }
+    .anim-d5 { animation-delay: 0.55s; }
+    @media (prefers-reduced-motion: reduce) {
+      .anim-rise { opacity: 1; transform: none; animation: none; }
+    }
+
+    /* ===== S1: Hero (split layout, service-page variant) ===== */
+    .hero-svc {
+      position: relative;
+      min-height: 50vh;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      background: var(--color-secondary);
+    }
+    .hero-svc__bg {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+    }
+    .hero-svc__bg img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      display: block;
+    }
+    .hero-svc__bg::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(31,41,55,0.92) 0%, rgba(31,41,55,0.72) 55%, rgba(31,41,55,0.40) 100%);
+    }
+    .hero-svc__inner {
+      position: relative;
+      z-index: 1;
+      padding: clamp(100px, 14vh, 160px) 0 clamp(40px, 5vw, 80px);
+      width: 100%;
+    }
+    .hero-svc__row {
+      display: grid;
+      grid-template-columns: 55% 45%;
+      gap: clamp(24px, 4vw, 48px);
+      align-items: center;
+    }
+    .hero-svc__copy {
+      display: flex;
+      flex-direction: column;
+      gap: clamp(12px, 1.6vw, 20px);
+    }
+    .hero-svc__eyebrow {
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--color-accent);
+    }
+    .hero-svc__h1 {
+      font-family: var(--font-sans);
+      font-size: clamp(2rem, 3.5vw, 3.25rem);
+      font-weight: 800;
+      line-height: 1.10;
+      letter-spacing: -0.025em;
+      color: #FFFFFF;
+      margin: 0;
+    }
+    .hero-svc__sub {
+      font-size: clamp(0.9375rem, 0.5vw + 0.85rem, 1.125rem);
+      line-height: 1.55;
+      color: rgba(250,247,242,0.85);
+      margin: 0;
+      max-width: 540px;
+    }
+    .hero-svc__trust-line {
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      color: rgba(250,247,242,0.55);
+      margin: 0;
+    }
+    .hero-svc__trust-line span {
+      margin: 0 6px;
+      opacity: 0.4;
+    }
+    .hero-svc__ctas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 4px 0 0;
+    }
+    .hero-svc__visual {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .hero-svc__visual img {
+      border-radius: 12px;
+      width: 100%;
+      max-width: 520px;
+      height: auto;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+    @media (max-width: 991px) {
+      .hero-svc { min-height: auto; }
+      .hero-svc__row { grid-template-columns: 1fr; }
+      .hero-svc__visual { display: none; }
+      .hero-svc__inner { padding: clamp(100px, 16vh, 160px) 0 clamp(40px, 5vw, 60px); }
+    }
+    @media (max-width: 575px) {
+      .hero-svc__h1 { font-size: clamp(1.75rem, 7vw, 2.25rem); }
+      .hero-svc__ctas .btn-corp { width: 100%; text-align: center; }
+    }
+
+    /* ===== S2: What We Build — 2x2 card grid ===== */
+    .output-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: clamp(16px, 2vw, 24px);
+    }
+    .output-card__img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; margin-bottom: 16px; display: block; }
+    .output-card {
+      padding: clamp(24px, 3vw, 36px);
+      background: #FFFFFF;
+      border: 1px solid var(--color-border);
+      border-radius: 12px;
+      transition: transform .25s ease, box-shadow .25s ease;
+    }
+    .output-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--corp-shadow-2);
+    }
+    .output-card__icon {
+      width: 48px;
+      height: 48px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      color: #6B7280;
+      margin-bottom: 16px;
+    }
+    .output-card__title {
+      font-size: 1.125rem;
+      font-weight: 700;
+      color: #0F1F1E;
+      margin: 0 0 10px;
+    }
+    .output-card__body {
+      font-size: 0.9375rem;
+      line-height: 1.55;
+      color: #374151;
+      margin: 0;
+    }
+    @media (max-width: 575px) {
+      .output-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ===== S3: How It Works — horizontal process strip ===== */
+    .process-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: clamp(20px, 3vw, 40px);
+      position: relative;
+    }
+    .process-strip::before {
+      content: "";
+      position: absolute;
+      top: 24px;
+      left: calc(12.5% + 24px);
+      right: calc(12.5% + 24px);
+      height: 2px;
+      background: var(--color-primary);
+      opacity: 0.25;
+    }
+    .process-step {
+      text-align: center;
+      position: relative;
+    }
+    .process-step__num {
+      width: 48px;
+      height: 48px;
+      background: var(--color-primary);
+      color: #FFFFFF;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-sans);
+      font-weight: 800;
+      font-size: 1.125rem;
+      margin-bottom: 18px;
+      position: relative;
+      z-index: 1;
+    }
+    .process-step__title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0F1F1E;
+      margin: 0 0 8px;
+    }
+    .process-step__desc {
+      font-size: 0.875rem;
+      line-height: 1.5;
+      color: var(--color-muted);
+      margin: 0;
+    }
+    @media (max-width: 768px) {
+      .process-strip {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+      .process-strip::before { display: none; }
+      .process-step {
+        display: grid;
+        grid-template-columns: 48px 1fr;
+        gap: 16px;
+        text-align: left;
+      }
+      .process-step__num { margin-bottom: 0; }
+      .process-step__content { display: flex; flex-direction: column; justify-content: center; }
+    }
+
+    /* ===== S4: What You Can Send Us — 3-col cards with left accent ===== */
+    .input-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: clamp(16px, 2vw, 24px);
+    }
+    .input-card {
+      padding: clamp(24px, 3vw, 32px);
+      background: #FFFFFF;
+      border: 1px solid var(--color-border);
+      border-left: 3px solid var(--color-primary);
+      border-radius: 0 12px 12px 0;
+      transition: transform .25s ease, box-shadow .25s ease;
+    }
+    .input-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--corp-shadow-2);
+    }
+    .input-card__icon {
+      width: 48px;
+      height: 48px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      color: #6B7280;
+      margin-bottom: 14px;
+    }
+    .input-card__title {
+      font-size: 1.125rem;
+      font-weight: 700;
+      color: #0F1F1E;
+      margin: 0 0 10px;
+    }
+    .input-card__body {
+      font-size: 0.9375rem;
+      line-height: 1.5;
+      color: #374151;
+      margin: 0 0 12px;
+    }
+    .input-card__best-for {
+      font-size: 0.875rem;
+      font-style: italic;
+      color: var(--color-muted);
+      margin: 0;
+    }
+    @media (max-width: 991px) {
+      .input-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 575px) {
+      .input-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ===== S5: Order Specs — stat strip ===== */
+    .stat-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: clamp(16px, 2vw, 28px);
+      text-align: center;
+    }
+    .stat-strip__item { padding: 8px 0; }
+    .stat-strip__num {
+      font-family: var(--font-sans);
+      font-size: clamp(2.25rem, 4vw, 3rem);
+      font-weight: 800;
+      color: var(--color-primary);
+      line-height: 1;
+      margin: 0 0 6px;
+    }
+    .stat-strip__label {
+      font-size: 0.85rem;
+      line-height: 1.4;
+      color: #6B7280;
+      margin: 0;
+      max-width: 22ch;
+      margin-inline: auto;
+    }
+    @media (max-width: 575px) {
+      .stat-strip { grid-template-columns: repeat(2, 1fr); gap: 24px 16px; }
+    }
+
+    /* ===== S6: Final CTA ===== */
+    .final-cta {
+      min-height: 30vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: clamp(60px, 10vh, 100px) 0;
+      background: var(--color-secondary);
+    }
+    .final-cta__h2 {
+      font-size: clamp(1.5rem, 3vw, 2.25rem);
+      font-weight: 800;
+      color: #FFFFFF;
+      margin: 0 0 14px;
+    }
+    .final-cta__sub {
+      font-size: 1rem;
+      line-height: 1.55;
+      color: #D1D5DB;
+      max-width: 50ch;
+      margin: 0 auto 28px;
+    }
+    .final-cta__btns {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+    }
+    @media (max-width: 575px) {
+      .final-cta__btns .btn-corp { width: 100%; }
+    }
+    </style>
+</head>
+<body>
+
+  <!-- TopBar plugin -->
+  <div id="topbar-container"></div>
+  <script src="/assets/topbar.js" defer></script>
+
+  <!-- Dynamic Menu plugin -->
+    
+  <script src="/assets/dynamic-menu.js" defer></script>
+
+  <main id="main">
+    <nav class="bcrumb" aria-label="Breadcrumb">
+      <ol class="bcrumb__list">
+        <li class="bcrumb__item"><a href="/">Accueil</a></li>
+        <li class="bcrumb__item"><a href="/services">Services</a></li>
+        <li class="bcrumb__item bcrumb__item--current" aria-current="page">Fiche Technique &amp; Patron</li>
+      </ol>
+    </nav>
+
+    <!-- ============== S1 — Hero ============== -->
+    <section class="hero-svc" aria-labelledby="hero-h1">
+      <div class="hero-svc__bg" aria-hidden="true" style="background: linear-gradient(135deg, #1F2937 0%, #111827 100%);"></div>
+
+      <div class="container-bra hero-svc__inner">
+        <div class="hero-svc__row">
+          <div class="hero-svc__copy anim-rise">
+            <span class="hero-svc__eyebrow anim-rise anim-d1">SERVICE FICHE TECHNIQUE &amp; PATRON</span>
+            <h1 class="hero-svc__h1 anim-rise anim-d2">Fiche Technique &amp; Développement de Patron&thinsp;&mdash;&thinsp;Du Croquis à une Spec Prête pour la Production</h1>
+            <p class="hero-svc__sub anim-rise anim-d3">Envoyez un échantillon, un croquis ou des photos. 16 patronniers renvoient une fiche technique graduée en 7-14 jours&thinsp;&mdash;&thinsp;USD&nbsp;220, prête pour la série.</p>
+            <p class="hero-svc__trust-line anim-rise anim-d4">16 patronniers<span>&middot;</span>gradation XS-5XL<span>&middot;</span>forfait USD 220<span>&middot;</span>7-14 jours</p>
+            <div class="hero-svc__ctas anim-rise anim-d5">
+              <a href="/contact" class="btn-corp btn-corp--primary btn-corp--accent">Lancer votre patron</a>
+              <a href="#how-it-works" class="btn-corp btn-corp--ghost">Voir le processus</a>
+            </div>
+          </div>
+          <div class="hero-svc__visual">
+            <img src="https://img.berunactivewear.com/assets/images/pattern-sample-approval.webp" alt="Patronnier transformant un échantillon de référence en fiche technique prête pour la production" width="720" height="450" loading="eager" onerror="this.onerror=null;this.src='/assets/images/pattern-sample-approval.webp'">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="service-proof-panel" aria-labelledby="techpack-proof-heading">
+      <div class="container-bra">
+        <div class="service-proof-grid">
+          <div class="service-proof-copy">
+            <span class="service-proof-kicker">LA SPEC AVANT LE DEVIS</span>
+            <h2 class="service-proof-title" id="techpack-proof-heading">Une fiche technique de production élimine les approximations avant de discuter MOQ et prix.</h2>
+            <p class="service-proof-text">Les croquis et photos de référence sont utiles, mais ils ne disent pas à l'usine comment graduer, coudre, garnir ou inspecter le vêtement. Ce service convertit l'idée en un dossier examinable par l'acheteur : croquis à plat, tableau POM, règle de gradation, notes de confection et liste matières/accessoires.</p>
+            <ul class="service-proof-list">
+              <li><i class="bi bi-check2-circle"></i><span>L'échantillon ou les photos de référence sont traduits en points POM mesurables et notes de tolérance.</span></li>
+              <li><i class="bi bi-check2-circle"></i><span>Les questions de patron sont résolues avant la coupe de l'échantillon : montant, emmanchure, encolure, entrejambe et cible de compression.</span></li>
+              <li><i class="bi bi-check2-circle"></i><span>Le livrable est conçu pour passer directement à l'échantillonnage, au devis ou à la production OEM en série.</span></li>
+            </ul>
+          </div>
+          <figure class="service-proof-media">
+            <img src="https://img.berunactivewear.com/assets/images/pattern-sample-approval.webp" alt="Table de développement de patron avec échantillon et références de mesures" width="900" height="560" loading="lazy" onerror="this.onerror=null;this.src='/assets/images/pattern-sample-approval.webp'">
+            <figcaption>Patron et échantillons de référence convertis en fichiers de mesures et de gradation prêts pour la production.</figcaption>
+          </figure>
+        </div>
+        <div class="service-evidence-grid">
+          <article class="service-evidence-card">
+            <img src="https://img.berunactivewear.com/assets/images/products/training-sports-bra.webp" alt="Référence de développement de patron de brassière pour fiche technique" width="600" height="375" loading="lazy" onerror="this.onerror=null;this.src='/assets/images/training-sports-bra.webp'">
+            <div class="service-evidence-card__body"><h3>Décisions d'ajustement</h3><p>Niveau de compression, montage des bretelles, profondeur d'encolure et notes de panneaux de maintien sont clarifiés avant l'échantillonnage.</p></div>
+          </article>
+          <article class="service-evidence-card">
+            <img src="https://img.berunactivewear.com/assets/images/fabric-qc-lab.webp" alt="Revue de coupons de tissu pour la liste matières de la fiche technique" width="600" height="375" loading="lazy" onerror="this.onerror=null;this.src='/assets/images/fabric-qc-lab.webp'">
+            <div class="service-evidence-card__body"><h3>Liste matières</h3><p>Base tissu, cible GSM, exigence d'élasticité et choix d'accessoires sont inscrits dans la spec.</p></div>
+          </article>
+          <article class="service-evidence-card">
+            <img src="https://img.berunactivewear.com/assets/images/garment-qc-measurement.webp" alt="Mesure de vêtement utilisée pour définir le tableau POM" width="600" height="375" loading="lazy" onerror="this.onerror=null;this.src='/assets/images/garment-qc-measurement.webp'">
+            <div class="service-evidence-card__body"><h3>Tableau POM</h3><p>Les points de mesure sont définis de façon que les équipes QC puissent les reproduire lors de l'inspection de l'échantillon et de la série.</p></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== S2 — What We Build ============== -->
+    <section class="section-corp section-corp--white" aria-labelledby="s2-h2">
+      <div class="container-bra">
+        <div class="section-head">
+          <span class="section-rail">LIVRABLES</span>
+          <h2 class="section-h2" id="s2-h2">Quatre Livrables dans Chaque Fiche Technique</h2>
+          <p class="section-sub">Un ensemble PDF + DXF&thinsp;&mdash;&thinsp;ouvrez-le et commencez à couper.</p>
+        </div>
+
+        <div class="output-grid">
+          <div class="output-card anim-rise anim-d1">
+            <img class="output-card__img" src="https://img.berunactivewear.com/assets/images/ab-tech-pack-and-reference-garment.webp" onerror="this.onerror=null;this.src='/assets/images/ab-tech-pack-and-reference-garment.webp'" alt="Fiche technique complète avec vêtement de référence" width="600" height="450" loading="lazy">
+            <div class="output-card__icon"><i class="bi bi-clipboard2-data" aria-hidden="true"></i></div>
+            <h3 class="output-card__title">Fiche Technique Complète</h3>
+            <p class="output-card__body">Croquis à plat (avant/dos/détail), tableau de mesures, notes de confection par couture, coordonnées d'emplacement d'impression.</p>
+          </div>
+          <div class="output-card anim-rise anim-d2">
+            <img class="output-card__img" src="https://img.berunactivewear.com/assets/images/ab-pattern-maker-drafting.webp" onerror="this.onerror=null;this.src='/assets/images/ab-pattern-maker-drafting.webp'" alt="Tracé d'un jeu de patrons gradués" width="600" height="450" loading="lazy">
+            <div class="output-card__icon"><i class="bi bi-layers" aria-hidden="true"></i></div>
+            <h3 class="output-card__title">Jeu de Patrons Gradués (XS-5XL)</h3>
+            <p class="output-card__body">Patron de taille de base gradué selon des règles spécifiques au sportswear. Livré en patrons papier ou en DXF pour Gerber, Lectra, Optitex.</p>
+          </div>
+          <div class="output-card anim-rise anim-d3">
+            <img class="output-card__img" src="https://img.berunactivewear.com/assets/images/ab-automatic-spreading-and-cutting-machines.webp" onerror="this.onerror=null;this.src='/assets/images/ab-automatic-spreading-and-cutting-machines.webp'" alt="Plan de coupe sur machines de matelassage et de coupe" width="600" height="450" loading="lazy">
+            <div class="output-card__icon"><i class="bi bi-scissors" aria-hidden="true"></i></div>
+            <h3 class="output-card__title">Plan de Coupe</h3>
+            <p class="output-card__body">Carte d'utilisation du tissu pour votre laize. Cible : rendement matière 85 %+.</p>
+          </div>
+          <div class="output-card anim-rise anim-d4">
+            <img class="output-card__img" src="https://img.berunactivewear.com/assets/images/ab-signed-qc-specification.webp" onerror="this.onerror=null;this.src='/assets/images/ab-signed-qc-specification.webp'" alt="Fiche de spécification de la nomenclature" width="600" height="450" loading="lazy">
+            <div class="output-card__icon"><i class="bi bi-list-check" aria-hidden="true"></i></div>
+            <h3 class="output-card__title">Nomenclature</h3>
+            <p class="output-card__body">Tissu, fil, élastique, accessoires, étiquette d'entretien, hangtag, polybag&thinsp;&mdash;&thinsp;le tout avec des références neutres côté fournisseur.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== S3 — How It Works ============== -->
+    <section class="section-corp section-corp--tint" id="how-it-works" aria-labelledby="s3-h2">
+      <div class="container-bra">
+        <div class="section-head">
+          <span class="section-rail">PROCESSUS</span>
+          <h2 class="section-h2" id="s3-h2">De la Référence à une Spec Prête pour la Production</h2>
+        </div>
+
+        <div class="process-strip">
+          <div class="process-step anim-rise anim-d1">
+            <div class="process-step__num">1</div>
+            <div class="process-step__content">
+              <h3 class="process-step__title">Envoyez votre référence</h3>
+              <p class="process-step__desc">Échantillon, croquis ou photos avec mesures. Nous confirmons le périmètre sous 24 heures.</p>
+            </div>
+          </div>
+          <div class="process-step anim-rise anim-d2">
+            <div class="process-step__num">2</div>
+            <div class="process-step__content">
+              <h3 class="process-step__title">L'équipe patron construit la fiche technique</h3>
+              <p class="process-step__desc">L'un des 16 patronniers trace le croquis à plat, gradue le XS-5XL, crée le plan de coupe, compile la nomenclature. 5-10 jours ouvrés.</p>
+            </div>
+          </div>
+          <div class="process-step anim-rise anim-d3">
+            <div class="process-step__num">3</div>
+            <div class="process-step__content">
+              <h3 class="process-step__title">Vous relisez et révisez</h3>
+              <p class="process-step__desc">PDF brouillon pour validation. Un tour de révision inclus. Tours supplémentaires : USD&nbsp;40 chacun.</p>
+            </div>
+          </div>
+          <div class="process-step anim-rise anim-d4">
+            <div class="process-step__num">4</div>
+            <div class="process-step__content">
+              <h3 class="process-step__title">La spec validée alimente la production</h3>
+              <p class="process-step__desc">Le patron et la nomenclature alimentent notre ligne OEM&thinsp;&mdash;&thinsp;ou emportez les fichiers DXF chez n'importe quelle usine. La fiche technique vous appartient.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== S4 — What You Can Send Us ============== -->
+    <section class="section-corp section-corp--white" aria-labelledby="s4-h2">
+      <div class="container-bra">
+        <div class="section-head">
+          <span class="section-rail">POINTS DE DÉPART</span>
+          <h2 class="section-h2" id="s4-h2">Nous Travaillons à Partir de Ce Que Vous Avez</h2>
+          <p class="section-sub">Trois points de départ&thinsp;&mdash;&thinsp;le même livrable prêt pour la production.</p>
+        </div>
+
+        <div class="input-grid">
+          <div class="input-card anim-rise anim-d1">
+            <div class="input-card__icon"><i class="bi bi-box-seam" aria-hidden="true"></i></div>
+            <h3 class="input-card__title">Échantillon Physique</h3>
+            <p class="input-card__body">Envoyez un vêtement. Nous le déconstruisons, le mesurons et le reconstruisons en numérique.</p>
+            <p class="input-card__best-for">Idéal pour : reproduire un ajustement que vous vendez déjà.</p>
+          </div>
+          <div class="input-card anim-rise anim-d2">
+            <div class="input-card__icon"><i class="bi bi-pencil-square" aria-hidden="true"></i></div>
+            <h3 class="input-card__title">Croquis ou Illustration</h3>
+            <p class="input-card__body">Scan dessiné à la main, rendu AI ou PDF avec mesures de taille de base.</p>
+            <p class="input-card__best-for">Idéal pour : des modèles qui n'existent que sur papier.</p>
+          </div>
+          <div class="input-card anim-rise anim-d3">
+            <div class="input-card__icon"><i class="bi bi-camera" aria-hidden="true"></i></div>
+            <h3 class="input-card__title">Photos de Référence + Mesures</h3>
+            <p class="input-card__body">Photos plus un tableau POM (poitrine, taille, hanche, entrejambe, manche).</p>
+            <p class="input-card__best-for">Idéal pour : « comme ceci, mais avec des changements ».</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== S5 — Order Specs ============== -->
+    <section class="section-corp section-corp--compact" style="background:#F9FAFB;padding:clamp(40px,6vh,64px) 0;" aria-label="Order specifications">
+      <div class="container-bra">
+        <div class="stat-strip">
+          <div class="stat-strip__item anim-rise anim-d1">
+            <p class="stat-strip__num">USD 220</p>
+            <p class="stat-strip__label">Frais de patron par modèle, un tour de révision inclus</p>
+          </div>
+          <div class="stat-strip__item anim-rise anim-d2">
+            <p class="stat-strip__num">7-14</p>
+            <p class="stat-strip__label">Jours entre la réception de la référence et la fiche technique brouillon</p>
+          </div>
+          <div class="stat-strip__item anim-rise anim-d3">
+            <p class="stat-strip__num">16</p>
+            <p class="stat-strip__label">Patronniers sur la ligne sportswear</p>
+          </div>
+          <div class="stat-strip__item anim-rise anim-d4">
+            <p class="stat-strip__num">XS-5XL</p>
+            <p class="stat-strip__label">Plage de gradation standard</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== S6 — Inquiry Form (form-widget) ============== -->
+    <div id="inquiry-form-container" data-theme="dark" data-heading="Lancer votre patron" data-sub="Joignez votre référence&thinsp;&mdash;&thinsp;nous cadrons la fiche technique sous 24 heures."></div>
+
+  </main>
+
+
+
+
+  <!-- Footer plugin -->
+  <div id="footer-container"></div>
+  <script src="/assets/footer.js" defer></script>
+  <script src="/assets/form-widget.js" defer></script>
+
+  <!-- WhatsApp Widget -->
+  <script>
+    window.WhatsAppWidgetConfig = {
+      contactsFile: '/assets/whatsapp-contacts.json'
+    };
+  </script>
+  <script src="/assets/whatsapp-widget.js" defer></script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" defer></script>
+</body>
+</html>
