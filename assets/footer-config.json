@@ -1,0 +1,101 @@
+{
+  "company": {
+    "logo": "https://img.berunactivewear.com/assets/images/logo.svg",
+    "name": "Sport Fabrication",
+    "description": "Fabricant de vêtements de sport et d'activewear sur mesure : production OEM/ODM pour marques mondiales, distributeurs et entreprises de marque blanche. MOQ, échantillons, QC et documents de conformité partagés lors du RFQ.",
+    "socialLinks": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/company/sport-fabrication",
+        "label": "LinkedIn"
+      }
+    ]
+  },
+  "columns": [
+    {
+      "title": "Produits",
+      "links": [
+        {
+          "text": "Entraînement & Performance",
+          "url": "/produits/entrainement-performance"
+        },
+        {
+          "text": "Athleisure",
+          "url": "/produits/athleisure"
+        },
+        {
+          "text": "Équipes & Clubs",
+          "url": "/produits/equipes-clubs"
+        },
+        {
+          "text": "Running & Plein Air",
+          "url": "/produits/running-plein-air"
+        },
+        {
+          "text": "Accessoires",
+          "url": "/produits/accessoires"
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "links": [
+        {
+          "text": "OEM (Coupe-Couture)",
+          "url": "/services/fabrication-oem"
+        },
+        {
+          "text": "ODM",
+          "url": "/services/fabrication-odm"
+        },
+        {
+          "text": "Marque Blanche",
+          "url": "/services/marque-blanche"
+        },
+        {
+          "text": "Échantillonnage",
+          "url": "/services/echantillonnage"
+        },
+        {
+          "text": "Fiche Technique & Patron",
+          "url": "/services/fiche-technique"
+        }
+      ]
+    },
+    {
+      "title": "Entreprise",
+      "links": [
+        {
+          "text": "À Propos",
+          "url": "/a-propos"
+        },
+        {
+          "text": "FAQ",
+          "url": "/questions-frequentes"
+        },
+        {
+          "text": "Contact",
+          "url": "/contact"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "email": "sales@sportfabrication.com",
+    "phone": "+86-159-0277-8636",
+    "address": "Guangzhou, China",
+    "hours": "Lun-Ven 9h-18h (GMT+8)"
+  },
+  "copyright": {
+    "year": 2026,
+    "company": "Sport Fabrication",
+    "text": "Tous droits réservés. 8 ans d'usine depuis 2017.",
+    "links": [
+      {
+        "text": "Politique de Confidentialité",
+        "url": "/politique-de-confidentialite"
+      }
+    ]
+  }
+}

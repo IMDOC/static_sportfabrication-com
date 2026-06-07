@@ -1,0 +1,141 @@
+{
+  "logo": {
+    "text": "Sport Fabrication",
+    "image": "https://img.berunactivewear.com/assets/images/logo.svg",
+    "link": "/",
+    "showText": false
+  },
+  "menuItems": [
+    {
+      "text": "Accueil",
+      "link": "/"
+    },
+    {
+      "text": "Produits",
+      "link": "#",
+      "children": [
+        {
+          "text": "Entraînement & Performance",
+          "link": "/produits/entrainement-performance"
+        },
+        {
+          "text": "Athleisure",
+          "link": "/produits/athleisure"
+        },
+        {
+          "text": "Équipes & Clubs",
+          "link": "/produits/equipes-clubs"
+        },
+        {
+          "text": "Running & Plein Air",
+          "link": "/produits/running-plein-air"
+        },
+        {
+          "text": "Accessoires",
+          "link": "/produits/accessoires"
+        },
+        {
+          "text": "Leggings de Yoga Personnalisés",
+          "link": "/fabricant-leggings-yoga-personnalises"
+        },
+        {
+          "text": "Brassières de Sport en Gros",
+          "link": "/brassieres-de-sport-en-gros"
+        },
+        {
+          "text": "Vêtements de Compression",
+          "link": "/vetements-compression-personnalises"
+        },
+        {
+          "text": "Sweats Homme Personnalisés",
+          "link": "/fabricant-sweats-homme-personnalises"
+        }
+      ]
+    },
+    {
+      "text": "Services",
+      "link": "#",
+      "children": [
+        {
+          "text": "OEM (Coupe-Couture)",
+          "link": "/services/fabrication-oem"
+        },
+        {
+          "text": "ODM",
+          "link": "/services/fabrication-odm"
+        },
+        {
+          "text": "Marque Blanche",
+          "link": "/services/marque-blanche"
+        },
+        {
+          "text": "Échantillonnage",
+          "link": "/services/echantillonnage"
+        },
+        {
+          "text": "Impression & Broderie",
+          "link": "/services/impression-broderie"
+        },
+        {
+          "text": "Personnalisation d'Équipes",
+          "link": "/services/personnalisation-equipes"
+        },
+        {
+          "text": "Fiche Technique & Patron",
+          "link": "/services/fiche-technique"
+        },
+        {
+          "text": "Vente en Gros",
+          "link": "/services/vente-en-gros"
+        }
+      ]
+    },
+    {
+      "text": "Métiers",
+      "link": "#",
+      "children": [
+        {
+          "text": "Fabricant Vêtements de Yoga",
+          "link": "/fabricant-vetements-yoga"
+        },
+        {
+          "text": "Fabricant Vêtements de Fitness",
+          "link": "/fabricant-vetements-fitness"
+        },
+        {
+          "text": "Fabricant Vêtements de Cyclisme",
+          "link": "/fabricant-vetements-cyclisme"
+        },
+        {
+          "text": "Fabricant Vêtements de Football",
+          "link": "/fabricant-vetements-football"
+        },
+        {
+          "text": "Fabricant Vêtements de Basketball",
+          "link": "/fabricant-vetements-basketball"
+        },
+        {
+          "text": "Fabricant Streetwear Personnalisé",
+          "link": "/fabricant-streetwear-personnalise"
+        }
+      ]
+    },
+    {
+      "text": "Blog",
+      "link": "/blog"
+    },
+    {
+      "text": "À Propos",
+      "link": "/a-propos"
+    },
+    {
+      "text": "Contact",
+      "link": "/contact"
+    }
+  ],
+  "ctaButton": {
+    "text": "Envoyer la Fiche Technique",
+    "link": "/contact",
+    "style": "primary"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "socialLinks": [
+    {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/company/sport-fabrication",
+      "label": "LinkedIn"
+    }
+  ],
+  "message": "Vêtements de Sport Personnalisés OEM/ODM | 12 lignes de production | Fichiers QC disponibles lors du RFQ",
+  "contacts": {
+    "phone": "+86-159-0277-8636",
+    "email": "sales@sportfabrication.com"
+  },
+  "backgroundColor": "#1F2937",
+  "textColor": "#ffffff",
+  "linkColor": "#EF4444",
+  "height": 45,
+  "showOnMobile": false,
+  "closable": false,
+  "zIndex": 1001
+}
