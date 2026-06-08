@@ -293,6 +293,8 @@ def _inject_head_meta(soup, post: dict) -> None:
     _upsert_meta(soup, key='og:description', value=meta_desc, attr='property')
     _upsert_meta(soup, key='og:image', value=hero, attr='property')
     _upsert_meta(soup, key='og:url', value=canonical, attr='property')
+    _upsert_meta(soup, key='twitter:title', value=title_tag, attr='name')
+    _upsert_meta(soup, key='twitter:description', value=meta_desc, attr='name')
     _upsert_meta(soup, key='og:type', value='article', attr='property')
     _upsert_meta(soup, key='article:author', value=author.get('name', ''), attr='property')
     _upsert_meta(soup, key='article:section', value=category.get('name', ''), attr='property')
@@ -404,11 +406,11 @@ def _ensure_inquiry_form(soup, brand_name: str = '', domain: str = ''):
   <p style="font-size:0.85rem;color:#666;margin-bottom:14px;">Envoyez vos spécifications — nous vous répondons avec un devis usine direct sous 24 heures.</p>
   <form id="articleInquiryForm" class="inquiry-form" style="display:flex;flex-direction:column;gap:10px;">
     <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off">
-    <input type="text" name="name" placeholder="Tu nombre *" required class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
-    <input type="email" name="email" placeholder="Email *" required class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
-    <input type="text" name="company" placeholder="Empresa / Marca" class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
+    <input type="text" name="name" placeholder="Votre nom *" required class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
+    <input type="email" name="email" placeholder="E-mail *" required class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
+    <input type="text" name="company" placeholder="Société / Marque" class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;">
     <textarea name="message" placeholder="Que souhaitez-vous produire ? (tissu, MOQ, délai)" rows="3" class="form-control" style="padding:8px 12px;border:1px solid #dee2e6;border-radius:6px;font-size:0.9rem;resize:vertical;"></textarea>
-    <button type="submit" style="background:#1F2937;color:#fff;border:none;border-radius:6px;padding:10px;font-weight:600;cursor:pointer;">Solicitar presupuesto</button>
+    <button type="submit" style="background:#1F2937;color:#fff;border:none;border-radius:6px;padding:10px;font-weight:600;cursor:pointer;">Demander un devis</button>
   </form>
   <script>
   (function(){{
@@ -420,7 +422,7 @@ def _ensure_inquiry_form(soup, brand_name: str = '', domain: str = ''):
       e.preventDefault();
       var btn = f.querySelector('button[type=submit]');
       var orig = btn.textContent;
-      btn.disabled = true; btn.textContent = 'Sending...';
+      btn.disabled = true; btn.textContent = 'Envoi…';
       try {{
         var r = await fetch('https://form.lianf.com/', {{
           method:'POST', headers:{{'Content-Type':'application/json'}},
@@ -434,9 +436,9 @@ def _ensure_inquiry_form(soup, brand_name: str = '', domain: str = ''):
           }})
         }});
         var d = await r.json();
-        if (d.success) {{ alert('Thanks! We&#39;ll reply within 24 hours.'); f.reset(); }}
-        else alert('Submission failed: ' + (d.msg || 'unknown error'));
-      }} catch(err) {{ alert('Network error. Please try again.'); }}
+        if (d.success) {{ alert('Merci ! Nous répondons sous 24 heures.'); f.reset(); }}
+        else alert('Échec de l’envoi : ' + (d.msg || 'erreur inconnue'));
+      }} catch(err) {{ alert('Erreur réseau. Veuillez réessayer.'); }}
       finally {{ btn.disabled = false; btn.textContent = orig; }}
     }});
   }})();
