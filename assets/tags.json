@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "domain": "sportfabrication.com",
+  "auto_register": true,
+  "tags": [
+    {"slug":"oem","name":"OEM","description":"Articles sur la fabrication OEM — production de vêtements de sport personnalisés à partir de votre fiche technique."},
+    {"slug":"odm","name":"ODM","description":"Articles sur l'ODM — conception plus fabrication avec les patrons de l'usine."},
+    {"slug":"marque-blanche","name":"Marque Blanche","description":"Articles sur les vêtements de sport en marque blanche — votre marque sur nos produits de base."},
+    {"slug":"moq-bas","name":"MOQ Bas","description":"Sourcing à faible MOQ et petites séries pour les marques émergentes."},
+    {"slug":"echantillonnage","name":"Échantillonnage","description":"Articles sur l'échantillonnage et la préproduction — coût, délais et validation des échantillons."},
+    {"slug":"fiche-technique","name":"Fiche Technique","description":"Articles sur la fiche technique, le patronage et la gradation — quoi inclure et comment la préparer."}
+  ]
+}

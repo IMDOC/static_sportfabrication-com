@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "domain": "sportfabrication.com",
+  "default_category_slug": "guides-approvisionnement",
+  "categories": [
+    {
+      "slug": "fabrication",
+      "name": "Fabrication",
+      "description": "Comment sont fabriqués les vêtements de sport : lignes de coupe et confection, OEM contre ODM, production en marque blanche, MOQ et délais réels pour les marques de sportswear.",
+      "icon": "bi-gear-wide-connected",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["fabrication","oem","odm","coupe et confection","marque blanche","production","usine","production en série"],
+      "parent_topic_keywords_zh": ["制造","生产","工厂","代工","贴牌"]
+    },
+    {
+      "slug": "technologie-textile",
+      "name": "Technologie Textile",
+      "description": "Les tissus techniques expliqués : séchage rapide, élasticité quatre directions, polyester recyclé, GSM, et comment le choix du tissu change le tombé, la durabilité et le coût.",
+      "icon": "bi-droplet-half",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["tissu","séchage rapide","élasticité quatre directions","polyester recyclé","tissu technique","nylon élasthanne","gsm","oeko-tex"],
+      "parent_topic_keywords_zh": ["面料","速干","弹力","再生聚酯"]
+    },
+    {
+      "slug": "guides-approvisionnement",
+      "name": "Guides d'Approvisionnement",
+      "description": "Guides pratiques pour acheteurs : rédiger une fiche technique, demander des échantillons, choisir un fournisseur, négocier le MOQ et éviter les erreurs courantes de sourcing.",
+      "icon": "bi-clipboard-check",
+      "featured": true,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["approvisionnement","sourcing","fiche technique","échantillonnage","fournisseur","moq","guide d'achat","comment commander","quantité minimale de commande"],
+      "parent_topic_keywords_zh": ["采购","技术包","打样","供应商","起订量"]
+    },
+    {
+      "slug": "categories-vetements-sport",
+      "name": "Catégories de Vêtements de Sport",
+      "description": "Analyse par catégorie : yoga, gym, cyclisme, football, basketball et streetwear — détails de construction et ce qu'il faut spécifier dans chaque cas.",
+      "icon": "bi-grid-1x2",
+      "featured": false,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["yoga","gym","cyclisme","football","basketball","streetwear","leggings","brassière de sport","compression","sweat"],
+      "parent_topic_keywords_zh": ["瑜伽","健身","骑行","足球","篮球","潮牌"]
+    },
+    {
+      "slug": "tendances-secteur",
+      "name": "Tendances du Secteur",
+      "description": "Vers où va le sourcing de vêtements de sport : durabilité, conformité et certifications, et les évolutions de marché qui touchent les marques et les acheteurs.",
+      "icon": "bi-graph-up-arrow",
+      "featured": false,
+      "parent_topic_ids": [],
+      "parent_topic_keywords": ["tendances","durabilité","conformité","certification","marché","recyclé","bsci","wrap","grs"],
+      "parent_topic_keywords_zh": ["趋势","可持续","认证","环保","市场"]
+    }
+  ]
+}

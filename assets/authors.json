@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "domain": "sportfabrication.com",
+  "default_author_slug": "ryan-mitchell",
+  "picking_strategy": "default",
+  "authors": [
+    {
+      "slug": "ryan-mitchell",
+      "name": "Ryan Mitchell",
+      "title": "Directeur de Production et Sourcing",
+      "bio_short": "Ryan cumule plus de 12 ans en production OEM/ODM de vêtements de sport — sourcing de tissus techniques, coupe et confection et développement de fiches techniques pour des marques de sportswear du monde entier.",
+      "expertise_tags": ["fabrication-oem-odm","tissus-techniques","fiche-technique-echantillonnage","marque-blanche","qc-conformite"],
+      "email": "sales@sportfabrication.com",
+      "avatar_url": "https://img.berunactivewear.com/assets/images/authors/ryan-mitchell.webp",
+      "page_url": "/author/ryan-mitchell",
+      "featured": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "totalBlogs": 1,
+  "totalPages": 1,
+  "postsPerPage": 20,
+  "categories": [
+    {
+      "name": "Fabrication",
+      "slug": "fabrication",
+      "count": 0
+    },
+    {
+      "name": "Technologie Textile",
+      "slug": "technologie-textile",
+      "count": 0
+    },
+    {
+      "name": "Guides d'Approvisionnement",
+      "slug": "guides-approvisionnement",
+      "count": 1
+    },
+    {
+      "name": "Catégories de Vêtements de Sport",
+      "slug": "categories-vetements-sport",
+      "count": 0
+    },
+    {
+      "name": "Tendances du Secteur",
+      "slug": "tendances-secteur",
+      "count": 0
+    }
+  ],
+  "latestUpdate": "2026-06-08"
+}
