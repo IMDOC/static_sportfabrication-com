@@ -273,7 +273,7 @@
       
       .ft-footer {
         width: 100%;
-        background: radial-gradient(circle at 18% 0%, rgba(213, 31, 42, 0.18), transparent 32%), linear-gradient(135deg, ${config.backgroundColor} 0%, #101816 100%);
+        background: radial-gradient(circle at 18% 0%, rgba(29, 78, 216, 0.18), transparent 32%), linear-gradient(135deg, ${config.backgroundColor} 0%, #101816 100%);
         color: ${config.textColor};
         padding: 56px 0 28px;
         border-top: 1px solid rgba(255, 255, 255, 0.08);
