@@ -25,9 +25,9 @@
 
   var defaultConfig = {
     action: 'https://form.lianf.com/',
-    brandColor: '#DC2626',
-    brandColorDark: '#991B1B',
-    accentColor: '#FFD166',
+    brandColor: '#1D4ED8',
+    brandColorDark: '#1E40AF',
+    accentColor: '#EF4444',
     containerSelector: '#inquiry-form-container'
   };
 

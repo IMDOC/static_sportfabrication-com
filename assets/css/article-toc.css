@@ -22,7 +22,7 @@
     color: #1a1a1a;
     margin-bottom: 0.875rem;
     padding-bottom: 0.625rem;
-    border-bottom: 2px solid #DC2626;
+    border-bottom: 2px solid #1D4ED8;
 }
 
 /* ========== TOC List ========== */
@@ -50,8 +50,8 @@
 }
 
 .article-toc-link:hover {
-    color: #DC2626;
-    border-left-color: #DC2626;
+    color: #1D4ED8;
+    border-left-color: #1D4ED8;
     background: rgba(30,183,230,0.05);
     text-decoration: none;
 }
@@ -86,8 +86,8 @@
 }
 
 .toc-list li a:hover {
-    color: #DC2626;
-    border-left-color: #DC2626;
+    color: #1D4ED8;
+    border-left-color: #1D4ED8;
     background: rgba(30,183,230,0.05);
     text-decoration: none;
 }

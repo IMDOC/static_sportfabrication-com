@@ -93,7 +93,7 @@
 
 /* ========== Blockquote ========== */
 .article-content blockquote {
-    border-left: 4px solid #DC2626;
+    border-left: 4px solid #1D4ED8;
     background: #f8f9fa;
     padding: 1.25rem 1.5rem;
     margin: 1.5rem 0;
@@ -143,7 +143,7 @@
 
 /* ========== CTA Banner ========== */
 .cta-banner {
-    background: linear-gradient(135deg, #DC2626 0%, #1F2937 100%);
+    background: linear-gradient(135deg, #1D4ED8 0%, #1F2937 100%);
     border-radius: 12px;
     padding: 2.5rem 2rem;
     text-align: center;

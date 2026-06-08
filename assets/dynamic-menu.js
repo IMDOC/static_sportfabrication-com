@@ -21,7 +21,7 @@
 
     theme: 'light',
 
-    brandColor: '#DC2626',
+    brandColor: '#1D4ED8',
 
     sticky: true,
 

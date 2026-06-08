@@ -52,8 +52,8 @@
     backgroundColor: '#1F2937',
     textColor: '#ffffff',
     linkColor: '#D1D5DB',
-    brandColor: '#DC2626',
-    hoverColor: '#DC2626'
+    brandColor: '#1D4ED8',
+    hoverColor: '#1D4ED8'
   };
 
   const config = Object.assign({}, defaultConfig, window.FooterConfig || {});

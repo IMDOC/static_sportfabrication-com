@@ -11,7 +11,7 @@
  * Placeholders filled at install time by /init-blog-framework:
  *   #1F2937        — primary brand color (hex), e.g. "#1F2937"
  *   #374151   — lighter variant for gradient stop, e.g. "#374151"
- *   #DC2626       — CTA button color (hex), e.g. "#DC2626"
+ *   #1D4ED8       — CTA button color (hex), e.g. "#1D4ED8"
  *   #B91C1C — accent button hover, e.g. "#B91C1C"
  */
 
@@ -46,8 +46,8 @@
     line-height: 1.55;
 }
 .sidebar-cta .btn-primary {
-    background: #DC2626;
-    border-color: #DC2626;
+    background: #1D4ED8;
+    border-color: #1D4ED8;
     color: #1F2937;
     font-weight: 700;
 }
@@ -79,7 +79,7 @@
 /* Author card at article end */
 .author-card {
     background: #F5F7FA;
-    border-left: 4px solid #DC2626;
+    border-left: 4px solid #1D4ED8;
     padding: 1.25rem 1.5rem;
     border-radius: 0 8px 8px 0;
     margin: 2rem 0 0;

@@ -247,7 +247,7 @@ def render_card(art: dict) -> str:
         formatted_date = date
 
     author_link = f'<a href="/author/{author_slug}" rel="author" style="color:inherit;text-decoration:none;">{author}</a>' if author_slug else author
-    cat_link = f'<a href="/category/{cat_slug}" style="color:#D51F2A;text-decoration:none;">{category}</a>' if cat_slug else category
+    cat_link = f'<a href="/category/{cat_slug}" style="color:#1D4ED8;text-decoration:none;">{category}</a>' if cat_slug else category
 
     tags_html = ''
     tags = art.get('tags', [])[:3]
@@ -620,10 +620,10 @@ CATEGORY_PAGE_TEMPLATE = '''<!DOCTYPE html>
     <meta name="keywords" content="{seo_keywords}">
     <link rel="canonical" href="https://www.{domain}/category/{slug}">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.berunactivewear.com/brand/sportfabrication.com/apple-icon-180x180.png">
     <link rel="manifest" href="/manifest.json">
 
     <meta property="og:type" content="website">
@@ -728,7 +728,7 @@ CATEGORY_PAGE_TEMPLATE = '''<!DOCTYPE html>
 <script>
     window.FooterConfig = {{
         configFile: '/assets/footer-config.json',
-        backgroundColor: '#111D1B', textColor: '#ffffff', linkColor: '#bbbbbb', brandColor: '#D51F2A',
+        backgroundColor: '#111D1B', textColor: '#ffffff', linkColor: '#bbbbbb', brandColor: '#1D4ED8',
         containerId: 'footer-container'
     }};
 </script>
@@ -749,10 +749,10 @@ TAG_PAGE_TEMPLATE = '''<!DOCTYPE html>
     <meta name="keywords" content="{tag_display}, {tag_slug}">
     <link rel="canonical" href="https://www.{domain}/tag/{tag_slug}">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" href="https://img.berunactivewear.com/brand/sportfabrication.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://img.berunactivewear.com/brand/sportfabrication.com/apple-icon-180x180.png">
     <link rel="manifest" href="/manifest.json">
 
     <meta property="og:type" content="website">
@@ -839,7 +839,7 @@ TAG_PAGE_TEMPLATE = '''<!DOCTYPE html>
 <script>
     window.FooterConfig = {{
         configFile: '/assets/footer-config.json',
-        backgroundColor: '#111D1B', textColor: '#ffffff', linkColor: '#bbbbbb', brandColor: '#D51F2A',
+        backgroundColor: '#111D1B', textColor: '#ffffff', linkColor: '#bbbbbb', brandColor: '#1D4ED8',
         containerId: 'footer-container'
     }};
 </script>

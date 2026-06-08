@@ -29,7 +29,7 @@
     font-size: 0.78rem;
     font-weight: 700;
     text-transform: uppercase;
-    color: #DC2626;
+    color: #1D4ED8;
     letter-spacing: 0.05em;
     margin-bottom: 0.5rem;
 }
@@ -72,7 +72,7 @@
     text-decoration: none;
     transition: gap 0.2s;
 }
-.blog-card-read-more:hover { gap: 0.65rem; color: #DC2626; }
+.blog-card-read-more:hover { gap: 0.65rem; color: #1D4ED8; }
 .empty-state {
     text-align: center;
     padding: 60px 20px;
