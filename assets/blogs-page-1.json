@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "3 Erreurs de Tenue à Éviter en Course à Pied (Et Solutions)",
+      "slug": "3-erreurs-de-tenue-a-eviter-en-course-a-pied-et-par-quoi-les-remplacer",
+      "url": "/3-erreurs-de-tenue-a-eviter-en-course-a-pied-et-par-quoi-les-remplacer",
+      "excerpt": "Frottements, t-shirt trempé, ampoules : découvrez les 3 erreurs de tenue les plus courantes en course à pied et comment les corriger facilement.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-21",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/dee38d1c-6aa7-46ac-bd31-2ce6086d2ba5.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 12,
+      "featured": true
+    },
+    {
       "title": "Leggings de Sport en Gros : Sélection pour Boutique Fitness",
       "slug": "leggings-de-sport-en-gros-la-selection-incontournable-pour-votre-boutique",
       "url": "/leggings-de-sport-en-gros-la-selection-incontournable-pour-votre-boutique",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 11,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 9 Fournisseurs Vêtements de Yoga en Chine",
