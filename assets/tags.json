@@ -64,6 +64,22 @@
       "aliases": [
         "leggings yoga tissu"
       ]
+    },
+    {
+      "slug": "justaucorps-fitness",
+      "name": "justaucorps fitness",
+      "description": "Articles and resources tagged justaucorps fitness.",
+      "aliases": [
+        "justaucorps fitness"
+      ]
+    },
+    {
+      "slug": "bodysuit-sport-femme",
+      "name": "bodysuit sport femme",
+      "description": "Articles and resources tagged bodysuit sport femme.",
+      "aliases": [
+        "bodysuit sport femme"
+      ]
     }
   ]
 }
