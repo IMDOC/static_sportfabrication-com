@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Choisir un Fabricant de Vêtements de Sport en Gros : Guide Revendeurs",
+      "slug": "ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
+      "url": "/ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
+      "excerpt": "Tout ce que les revendeurs doivent vérifier avant de choisir un fabricant de vêtements de sport en gros : qualité tissu, MOQ, contrats et matrice de décision.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-30",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/65563513-753f-40e2-82bd-f5ffa468fb3d.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 21,
+      "featured": true
+    },
+    {
       "title": "Choisir un fabricant de vêtements blancs pour votre marque",
       "slug": "comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
       "url": "/comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 20,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Marque Blanche vs Vêtements Personnalisés : Quel Modèle Choisir ?",
@@ -350,23 +367,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 2,
-      "featured": false
-    },
-    {
-      "title": "Comment Choisir un Fabricant de Vêtements de Sport — Guide 2026",
-      "slug": "comment-choisir-fabricant-vetements-sport",
-      "url": "/comment-choisir-fabricant-vetements-sport",
-      "excerpt": "Guide pour les marques : comment choisir un fabricant de vêtements de sport en 2026. MOQ réaliste, échantillonnage sur fiche technique, QC mesurable (AQL 2.5, ΔE ≤ 1,5) et régularité entre commandes.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-08",
-      "category": "Guides d'Approvisionnement",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/ab-aerial-view-of-factory.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "guides-approvisionnement",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 1,
       "featured": false
     }
   ]

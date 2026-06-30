@@ -1,0 +1,22 @@
+{
+  "pageNumber": 2,
+  "blogs": [
+    {
+      "title": "Comment Choisir un Fabricant de Vêtements de Sport — Guide 2026",
+      "slug": "comment-choisir-fabricant-vetements-sport",
+      "url": "/comment-choisir-fabricant-vetements-sport",
+      "excerpt": "Guide pour les marques : comment choisir un fabricant de vêtements de sport en 2026. MOQ réaliste, échantillonnage sur fiche technique, QC mesurable (AQL 2.5, ΔE ≤ 1,5) et régularité entre commandes.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-08",
+      "category": "Guides d'Approvisionnement",
+      "thumbnail": "https://img.berunactivewear.com/assets/images/ab-aerial-view-of-factory.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "guides-approvisionnement",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 1,
+      "featured": false
+    }
+  ]
+}
