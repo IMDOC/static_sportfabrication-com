@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Tendances Vêtements de Sport 2026 : Guide Sourcing B2B",
+      "slug": "tendances-vetements-de-sport-2026-guide-d-approvisionnement-par-categorie-pour",
+      "url": "/tendances-vetements-de-sport-2026-guide-d-approvisionnement-par-categorie-pour",
+      "excerpt": "Découvrez les tendances activewear 2026 par catégorie et construisez votre gamme avec ce guide d'approvisionnement B2B complet : tissus, silhouettes, MOQ et calendrier.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/998979d7-2543-496b-86ec-0f35e2caca32.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 22,
+      "featured": true
+    },
+    {
       "title": "Choisir un Fabricant de Vêtements de Sport en Gros : Guide Revendeurs",
       "slug": "ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
       "url": "/ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 21,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Choisir un fabricant de vêtements blancs pour votre marque",
@@ -350,23 +367,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 3,
-      "featured": false
-    },
-    {
-      "title": "Lancer une Marque de Sport en Marque Blanche en 2026 – 5 Conseils",
-      "slug": "lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
-      "url": "/lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
-      "excerpt": "Découvrez 5 conseils essentiels pour lancer votre marque de vêtements de sport en marque blanche en 2026 : niche, fabricants, budget et contrôle qualité.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-11",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0eace3abb2a60ce8b5bcb579271e1704.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 2,
       "featured": false
     }
   ]
