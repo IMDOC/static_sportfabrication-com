@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Marché des Vêtements de Sport en 2026 : Pourquoi la Croissance s'Accélère",
+      "slug": "pourquoi-le-marche-des-vetements-de-sport-croit-plus-vite-que-jamais-en-2026",
+      "url": "/pourquoi-le-marche-des-vetements-de-sport-croit-plus-vite-que-jamais-en-2026",
+      "excerpt": "Découvrez pourquoi le marché mondial des vêtements de sport explose en 2026 : TCAC, tendances athleisure, fabric tech, commerce social et opportunités de niche.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-04",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/550cf4ec-334b-44c8-be5f-17929b138db7.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 25,
+      "featured": true
+    },
+    {
       "title": "7 Critères pour Choisir un Grossiste en Vêtements de Sport",
       "slug": "7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
       "url": "/7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 24,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 10 Vêtements de Sport Femme les Plus Achetés en 2026",
@@ -345,23 +362,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 6,
-      "featured": false
-    },
-    {
-      "title": "Tendances Maillots de Bain en Gros à Ne Pas Manquer – Été 2026",
-      "slug": "les-tendances-maillots-de-bain-en-gros-a-ne-pas-manquer-pour-l-ete-2026",
-      "url": "/les-tendances-maillots-de-bain-en-gros-a-ne-pas-manquer-pour-l-ete-2026",
-      "excerpt": "Découvrez les 5 tendances maillots de bain en gros incontournables pour l'été 2026 : MOQ, tissus, marges et conseils d'approvisionnement marque privée.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-14",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a2d5b61e-e3f2-4323-94ff-70d64c259b23.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 5,
       "featured": false
     }
   ]
