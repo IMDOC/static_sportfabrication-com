@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 12 Fabricants de Vêtements de Sport Personnalisés aux USA",
+      "slug": "top-12-fabricants-de-vetements-de-sport-personnalises-aux-etats-unis",
+      "url": "/top-12-fabricants-de-vetements-de-sport-personnalises-aux-etats-unis",
+      "excerpt": "Découvrez les 12 meilleurs fabricants de vêtements de sport personnalisés aux États-Unis : qualité, MOQ, délais et conseils pour choisir le bon partenaire.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-10",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0af4b867-5e64-4907-8437-ab0340615bb3.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 31,
+      "featured": true
+    },
+    {
       "title": "5 Types d'Entraînement et Leurs Bienfaits pour les Femmes",
       "slug": "cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
       "url": "/cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
@@ -21,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 30,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Tissus Techniques : 4 Raisons de Choisir les Bons Vêtements de Sport",
@@ -355,23 +372,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 12,
-      "featured": false
-    },
-    {
-      "title": "Leggings de Sport en Gros : Sélection pour Boutique Fitness",
-      "slug": "leggings-de-sport-en-gros-la-selection-incontournable-pour-votre-boutique",
-      "url": "/leggings-de-sport-en-gros-la-selection-incontournable-pour-votre-boutique",
-      "excerpt": "Découvrez les meilleures catégories de leggings de sport en gros pour 2025 : taille haute, seamless, compression et grande taille. Guide complet pour boutiques fitness.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-20",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fe3279f8-6c30-484f-9d0a-6175d48efa54.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 11,
       "featured": false
     }
   ]
