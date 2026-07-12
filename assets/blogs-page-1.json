@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Vêtements de Sport Sans Couture vs Coupe-Cousu : Guide Complet",
+      "slug": "vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
+      "url": "/vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
+      "excerpt": "Sans couture ou coupe-cousu pour votre ligne de sport ? Découvrez les compromis réels sur les coûts, le confort et la scalabilité pour choisir la bonne méthode.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-12",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9a2e81ebc61036f49d99635a8ae3a747.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 33,
+      "featured": true
+    },
+    {
       "title": "Fabricants Sportswear : Chine vs Vietnam – Comment Choisir",
       "slug": "fabricants-de-vetements-de-sport-chine-vs-vietnam-avantages-inconvenients-et",
       "url": "/fabricants-de-vetements-de-sport-chine-vs-vietnam-avantages-inconvenients-et",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 32,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 12 Fabricants de Vêtements de Sport Personnalisés aux USA",
@@ -355,23 +372,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 14,
-      "featured": false
-    },
-    {
-      "title": "Top 12 Marques de Vêtements de Chasse au Royaume-Uni",
-      "slug": "top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",
-      "url": "/top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",
-      "excerpt": "Découvrez les 12 meilleures marques de vêtements de chasse au Royaume-Uni : Barbour, Härkila, Seeland et plus. Guide complet pour chasseurs et acheteurs professionnels.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-22",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea334a3-5580-4ff2-b64c-615a7b3b4e40.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 13,
       "featured": false
     }
   ]
