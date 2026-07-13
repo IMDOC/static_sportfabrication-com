@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Usine Sportswear vs Société de Trading : Quel Fournisseur Choisir ?",
+      "slug": "usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
+      "url": "/usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
+      "excerpt": "Usine de vêtements de sport ou société de trading ? Comparez les deux modèles fournisseurs et choisissez la meilleure option pour votre marque sportswear.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-13",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a4929622671d854db6698d5417115066.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 34,
+      "featured": true
+    },
+    {
       "title": "Vêtements de Sport Sans Couture vs Coupe-Cousu : Guide Complet",
       "slug": "vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
       "url": "/vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 33,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Fabricants Sportswear : Chine vs Vietnam – Comment Choisir",
@@ -350,28 +367,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 15,
-      "featured": false
-    },
-    {
-      "title": "3 Tendances de Motifs Leggings de Yoga Incontournables 2026",
-      "slug": "3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
-      "url": "/3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
-      "excerpt": "Découvrez les 3 tendances de motifs phares pour vos leggings de yoga en 2026 : géométrique, botanique et dégradé numérique. Anticipez la demande et vendez mieux.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-23",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/8461c062-30ab-49da-a591-b7346c4c12c6.png",
-      "tags": [
-        {
-          "slug": "motifs-leggings-yoga",
-          "name": "motifs leggings yoga"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 14,
       "featured": false
     }
   ]
