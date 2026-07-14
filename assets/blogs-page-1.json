@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 10 Fabricants Vêtements Fitness Italie pour Marques Luxe",
+      "slug": "top-10-fabricants-de-vetements-de-fitness-en-italie-pour-marques-de-luxe",
+      "url": "/top-10-fabricants-de-vetements-de-fitness-en-italie-pour-marques-de-luxe",
+      "excerpt": "Découvrez les 10 meilleurs fabricants italiens de vêtements de fitness pour marques de luxe : artisanat, tissus techniques et production sur mesure.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-14",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/aa782731-4c57-4baa-8015-179b60d2b934.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 35,
+      "featured": true
+    },
+    {
       "title": "Usine Sportswear vs Société de Trading : Quel Fournisseur Choisir ?",
       "slug": "usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
       "url": "/usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 34,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Vêtements de Sport Sans Couture vs Coupe-Cousu : Guide Complet",
@@ -350,23 +367,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 16,
-      "featured": false
-    },
-    {
-      "title": "Vêtements de Yoga en Gros : Les Meilleures Pièces pour l'Automne",
-      "slug": "les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
-      "url": "/les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
-      "excerpt": "Découvrez les meilleures pièces de vêtements de yoga en gros pour l'automne : leggings thermiques, hauts longues manches, ensembles coordonnés et plus. Guide achat Q4.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-24",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/178d6b97-da78-41d5-93d3-6aabbbc153c5.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 15,
       "featured": false
     }
   ]
