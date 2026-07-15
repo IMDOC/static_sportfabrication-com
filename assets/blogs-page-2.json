@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Guide Vêtements de Yoga : Tissus, Coupe et Conseils pour Débutants",
+      "slug": "guide-vetements-de-yoga-tissus-coupe-et-caracteristiques-essentielles-pour-les",
+      "url": "/guide-vetements-de-yoga-tissus-coupe-et-caracteristiques-essentielles-pour-les",
+      "excerpt": "Tissus, coupe, coutures : notre guide complet pour choisir vos vêtements de yoga. Comprendre le nylon, le polyester et la hauteur de taille avant votre premier achat.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-25",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/14d639b0-4764-444e-b068-d60ea19ee155.png",
+      "tags": [
+        {
+          "slug": "guide-tenue-de-yoga",
+          "name": "guide tenue de yoga"
+        },
+        {
+          "slug": "leggings-yoga-tissu",
+          "name": "leggings yoga tissu"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 16,
+      "featured": false
+    },
+    {
       "title": "Vêtements de Yoga en Gros : Les Meilleures Pièces pour l'Automne",
       "slug": "les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
       "url": "/les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
