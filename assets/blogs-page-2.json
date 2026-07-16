@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Justaucorps Fitness et Danse : Le Grand Retour en 2024",
+      "slug": "pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
+      "url": "/pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
+      "excerpt": "Découvrez pourquoi le justaucorps reconquiert la mode fitness et danse en 2024 : avantages de performance, comparatifs et conseils pour choisir votre modèle.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-26",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9910d97f0c0683910914a6c8e577bf7a.webp",
+      "tags": [
+        {
+          "slug": "justaucorps-fitness",
+          "name": "justaucorps fitness"
+        },
+        {
+          "slug": "bodysuit-sport-femme",
+          "name": "bodysuit sport femme"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 17,
+      "featured": false
+    },
+    {
       "title": "Guide Vêtements de Yoga : Tissus, Coupe et Conseils pour Débutants",
       "slug": "guide-vetements-de-yoga-tissus-coupe-et-caracteristiques-essentielles-pour-les",
       "url": "/guide-vetements-de-yoga-tissus-coupe-et-caracteristiques-essentielles-pour-les",
