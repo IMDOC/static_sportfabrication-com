@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Choisir un fabricant de vêtements blancs pour votre marque",
+      "slug": "comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
+      "url": "/comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
+      "excerpt": "Découvrez comment évaluer et choisir le bon fabricant de vêtements blancs pour votre marque grâce à notre grille en 8 dimensions et nos critères techniques.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f88ab0612ef0aa983e528effb014f332.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 20,
+      "featured": false
+    },
+    {
       "title": "Marque Blanche vs Vêtements Personnalisés : Quel Modèle Choisir ?",
       "slug": "marque-blanche-vs-vetements-de-sport-personnalises-quel-modele-choisir-pour-une",
       "url": "/marque-blanche-vs-vetements-de-sport-personnalises-quel-modele-choisir-pour-une",
