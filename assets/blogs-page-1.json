@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Meilleurs Tissus Vêtements de Golf 2026 : Confort & Performance",
+      "slug": "meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
+      "url": "/meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
+      "excerpt": "Découvrez les meilleurs tissus pour vêtements de golf en 2026 : polyester technique, mélanges élasthanne, laine mérinos et conseils B2B pour sourcer les matières idéales.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-21",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f3e60b147637eb718cde31982ebcdc58.webp",
+      "tags": [
+        {
+          "slug": "laine-m-rinos-golf",
+          "name": "laine mérinos golf"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 42,
+      "featured": true
+    },
+    {
       "title": "10 Meilleurs Tissus pour Vêtements de Sport : Guide Comparatif",
       "slug": "10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
       "url": "/10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
@@ -16,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 41,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Couture Flatlock vs Surjet pour Vêtements de Compression",
@@ -337,23 +359,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 23,
-      "featured": false
-    },
-    {
-      "title": "Tendances Vêtements de Sport 2026 : Guide Sourcing B2B",
-      "slug": "tendances-vetements-de-sport-2026-guide-d-approvisionnement-par-categorie-pour",
-      "url": "/tendances-vetements-de-sport-2026-guide-d-approvisionnement-par-categorie-pour",
-      "excerpt": "Découvrez les tendances activewear 2026 par catégorie et construisez votre gamme avec ce guide d'approvisionnement B2B complet : tissus, silhouettes, MOQ et calendrier.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-01",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/998979d7-2543-496b-86ec-0f35e2caca32.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 22,
       "featured": false
     }
   ]

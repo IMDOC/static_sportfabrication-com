@@ -2,6 +2,23 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Lancer une Marque de Sport en Marque Blanche en 2026 – 5 Conseils",
+      "slug": "lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
+      "url": "/lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
+      "excerpt": "Découvrez 5 conseils essentiels pour lancer votre marque de vêtements de sport en marque blanche en 2026 : niche, fabricants, budget et contrôle qualité.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-11",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0eace3abb2a60ce8b5bcb579271e1704.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 2,
+      "featured": false
+    },
+    {
       "title": "Comment Choisir un Fabricant de Vêtements de Sport — Guide 2026",
       "slug": "comment-choisir-fabricant-vetements-sport",
       "url": "/comment-choisir-fabricant-vetements-sport",
