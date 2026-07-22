@@ -2,6 +2,28 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "3 Looks Estivaux avec un Brassière de Sport – Été 2026",
+      "slug": "3-looks-estivaux-inspires-du-brassiere-de-sport-pour-femmes-stylees-en-2026",
+      "url": "/3-looks-estivaux-inspires-du-brassiere-de-sport-pour-femmes-stylees-en-2026",
+      "excerpt": "Découvrez 3 looks estivaux stylés inspirés du brassière de sport pour femmes tendance en 2026 — de la ville à la plage, en passant par le brunch.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-12",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b71b0c471ee56e7ad389c49ccfcb0738.webp",
+      "tags": [
+        {
+          "slug": "sport-chic-femme",
+          "name": "sport chic femme"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 3,
+      "featured": false
+    },
+    {
       "title": "Lancer une Marque de Sport en Marque Blanche en 2026 – 5 Conseils",
       "slug": "lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
       "url": "/lancez-votre-marque-de-vetements-de-sport-en-marque-blanche-en-2026-5-conseils",
