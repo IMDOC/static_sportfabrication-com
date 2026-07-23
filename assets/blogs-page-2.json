@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "7 Critères pour Choisir un Grossiste en Vêtements de Sport",
+      "slug": "7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
+      "url": "/7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
+      "excerpt": "Découvrez les 7 critères essentiels pour bien choisir votre grossiste en vêtements de sport : qualité, MOQ, délais, personnalisation OEM et bien plus.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-03",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/7f2f5eb0-f53f-488d-ad9a-72ed19f9f29b.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 24,
+      "featured": false
+    },
+    {
       "title": "Top 10 Vêtements de Sport Femme les Plus Achetés en 2026",
       "slug": "top-10-vetements-de-sport-femme-les-plus-achetes-en-2026",
       "url": "/top-10-vetements-de-sport-femme-les-plus-achetes-en-2026",
@@ -345,23 +362,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 5,
-      "featured": false
-    },
-    {
-      "title": "Marque Propre Salle de Sport : Revenus & Fidélisation",
-      "slug": "pourquoi-la-marque-propre-est-indispensable-pour-votre-salle-de-sport",
-      "url": "/pourquoi-la-marque-propre-est-indispensable-pour-votre-salle-de-sport",
-      "excerpt": "Découvrez pourquoi la marque propre est indispensable pour votre salle de sport : marges, fidélisation, choix des produits et cadre de lancement clé en main.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-13",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/5711aa15-02b5-4d05-b11a-582f14cd645f.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 4,
       "featured": false
     }
   ]
