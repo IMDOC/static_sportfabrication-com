@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Meilleurs Tissus pour Vêtements de Compression : Guide Complet",
+      "slug": "meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
+      "url": "/meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
+      "excerpt": "Nylon, polyester ou coton-spandex ? Découvrez quels tissus offrent le meilleur maintien pour vos vêtements de compression selon votre sport et vos objectifs.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-25",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/db6cc89462c47a121172b56c1f60da56.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 46,
+      "featured": true
+    },
+    {
       "title": "OEM vs ODM : Quel modèle de fabrication choisir pour votre marque ?",
       "slug": "oem-vs-odm-quel-modele-de-fabrication-est-le-plus-rentable-pour-votre-marque-de",
       "url": "/oem-vs-odm-quel-modele-de-fabrication-est-le-plus-rentable-pour-votre-marque-de",
@@ -21,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 45,
-      "featured": true
+      "featured": false
     },
     {
       "title": "10 Meilleures Marques de Vêtements de Sport Premium UK 2026",
@@ -352,23 +369,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 27,
-      "featured": false
-    },
-    {
-      "title": "Sublimation vs Sérigraphie : Meilleure Impression T-Shirt ?",
-      "slug": "sublimation-vs-serigraphie-quelle-technique-d-impression-est-la-meilleure-pour",
-      "url": "/sublimation-vs-serigraphie-quelle-technique-d-impression-est-la-meilleure-pour",
-      "excerpt": "Sublimation ou sérigraphie pour vos t-shirts personnalisés ? Comparez coûts, MOQ, durabilité et compatibilité tissu pour faire le bon choix en 2026.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-05",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/88ec4163a1cbd1d408937ceed2922a18.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 26,
       "featured": false
     }
   ]
