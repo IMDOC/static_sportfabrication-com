@@ -2,6 +2,28 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Dri-FIT vs Coton : Quel Tissu Choisir pour le Sport ?",
+      "slug": "dri-fit-vs-t-shirt-coton-quel-tissu-choisir-pour-un-mode-de-vie-actif",
+      "url": "/dri-fit-vs-t-shirt-coton-quel-tissu-choisir-pour-un-mode-de-vie-actif",
+      "excerpt": "Dri-FIT ou coton : lequel performe vraiment selon votre sport, votre climat et votre budget ? Comparatif complet avec données chiffrées et recommandations claires.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-06",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/91da4a37036f65f6c9c635bb28932d67.webp",
+      "tags": [
+        {
+          "slug": "dri-fit-vs-coton",
+          "name": "dri-fit vs coton"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 27,
+      "featured": false
+    },
+    {
       "title": "Sublimation vs Sérigraphie : Meilleure Impression T-Shirt ?",
       "slug": "sublimation-vs-serigraphie-quelle-technique-d-impression-est-la-meilleure-pour",
       "url": "/sublimation-vs-serigraphie-quelle-technique-d-impression-est-la-meilleure-pour",
@@ -345,23 +367,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 8,
-      "featured": false
-    },
-    {
-      "title": "3 Stratégies pour Booster les Ventes de Vêtements de Sport en 2026",
-      "slug": "3-strategies-pour-augmenter-les-ventes-de-votre-enseigne-de-vetements-de-sport",
-      "url": "/3-strategies-pour-augmenter-les-ventes-de-votre-enseigne-de-vetements-de-sport",
-      "excerpt": "Découvrez 3 stratégies actionnables pour augmenter les ventes de votre marque de vêtements de sport en 2026 : niche, DTC omnicanal et fidélisation.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-16",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6349f1fc-d7ff-45ae-a682-924202fee8f5.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 7,
       "featured": false
     }
   ]
