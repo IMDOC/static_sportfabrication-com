@@ -144,6 +144,22 @@
       "aliases": [
         "legging align yoga"
       ]
+    },
+    {
+      "slug": "vuori-kore-short",
+      "name": "vuori kore short",
+      "description": "Articles and resources tagged vuori kore short.",
+      "aliases": [
+        "vuori kore short"
+      ]
+    },
+    {
+      "slug": "banks-short-vuori",
+      "name": "banks short vuori",
+      "description": "Articles and resources tagged banks short vuori.",
+      "aliases": [
+        "banks short vuori"
+      ]
     }
   ]
 }
