@@ -160,6 +160,22 @@
       "aliases": [
         "banks short vuori"
       ]
+    },
+    {
+      "slug": "heatgear-vs-coldgear",
+      "name": "HeatGear vs ColdGear",
+      "description": "Articles and resources tagged HeatGear vs ColdGear.",
+      "aliases": [
+        "heatgear vs coldgear"
+      ]
+    },
+    {
+      "slug": "couche-de-base-sport",
+      "name": "couche de base sport",
+      "description": "Articles and resources tagged couche de base sport.",
+      "aliases": [
+        "couche de base sport"
+      ]
     }
   ]
 }
