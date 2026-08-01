@@ -2,6 +2,23 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Top 12 Marques de Vêtements de Chasse au Royaume-Uni",
+      "slug": "top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",
+      "url": "/top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",
+      "excerpt": "Découvrez les 12 meilleures marques de vêtements de chasse au Royaume-Uni : Barbour, Härkila, Seeland et plus. Guide complet pour chasseurs et acheteurs professionnels.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fea334a3-5580-4ff2-b64c-615a7b3b4e40.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 13,
+      "featured": false
+    },
+    {
       "title": "3 Erreurs de Tenue à Éviter en Course à Pied (Et Solutions)",
       "slug": "3-erreurs-de-tenue-a-eviter-en-course-a-pied-et-par-quoi-les-remplacer",
       "url": "/3-erreurs-de-tenue-a-eviter-en-course-a-pied-et-par-quoi-les-remplacer",

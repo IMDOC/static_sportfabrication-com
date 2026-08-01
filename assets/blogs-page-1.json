@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Alo Airlift vs Airbrush Leggings : Quelle est la différence ?",
+      "slug": "alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
+      "url": "/alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
+      "excerpt": "Alo Airlift ou Airbrush ? Comparez tissu, compression, effet sculptant et morphologie pour choisir le bon legging Alo Yoga selon votre entraînement.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fa46540109f625de7079b3aee39704aa.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 53,
+      "featured": true
+    },
+    {
       "title": "Under Armour HeatGear vs ColdGear : Lequel Choisir ?",
       "slug": "under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
       "url": "/under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
@@ -25,7 +42,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 52,
-      "featured": true
+      "featured": false
     },
     {
       "title": "AEROREADY vs HEAT.RDY : Comparatif Technique Complet",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 34,
-      "featured": false
-    },
-    {
-      "title": "Vêtements de Sport Sans Couture vs Coupe-Cousu : Guide Complet",
-      "slug": "vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
-      "url": "/vetements-de-sport-sans-couture-vs-coupe-cousu-quelle-methode-de-fabrication",
-      "excerpt": "Sans couture ou coupe-cousu pour votre ligne de sport ? Découvrez les compromis réels sur les coûts, le confort et la scalabilité pour choisir la bonne méthode.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-12",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9a2e81ebc61036f49d99635a8ae3a747.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 33,
       "featured": false
     }
   ]
