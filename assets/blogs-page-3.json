@@ -2,6 +2,28 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "3 Tendances de Motifs Leggings de Yoga Incontournables 2026",
+      "slug": "3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
+      "url": "/3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
+      "excerpt": "Découvrez les 3 tendances de motifs phares pour vos leggings de yoga en 2026 : géométrique, botanique et dégradé numérique. Anticipez la demande et vendez mieux.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-23",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/8461c062-30ab-49da-a591-b7346c4c12c6.png",
+      "tags": [
+        {
+          "slug": "motifs-leggings-yoga",
+          "name": "motifs leggings yoga"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 14,
+      "featured": false
+    },
+    {
       "title": "Top 12 Marques de Vêtements de Chasse au Royaume-Uni",
       "slug": "top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",
       "url": "/top-12-meilleures-marques-de-vetements-de-chasse-au-royaume-uni",

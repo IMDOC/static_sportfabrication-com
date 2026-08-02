@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "5 Étapes Clés du Contrôle Qualité en Vêtements de Sport",
+      "slug": "5-etapes-cles-du-controle-qualite-pour-les-marques-de-vetements-de-sport",
+      "url": "/5-etapes-cles-du-controle-qualite-pour-les-marques-de-vetements-de-sport",
+      "excerpt": "Découvrez les 5 étapes essentielles du contrôle qualité pour les marques de vêtements de sport, du tissu à l'inspection finale avant expédition.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-02",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c30c840e-7a02-4055-abae-12936af65fec.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 54,
+      "featured": true
+    },
+    {
       "title": "Alo Airlift vs Airbrush Leggings : Quelle est la différence ?",
       "slug": "alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
       "url": "/alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 53,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Under Armour HeatGear vs ColdGear : Lequel Choisir ?",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 35,
-      "featured": false
-    },
-    {
-      "title": "Usine Sportswear vs Société de Trading : Quel Fournisseur Choisir ?",
-      "slug": "usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
-      "url": "/usine-de-vetements-de-sport-vs-societe-de-trading-quel-fournisseur-choisir-pour",
-      "excerpt": "Usine de vêtements de sport ou société de trading ? Comparez les deux modèles fournisseurs et choisissez la meilleure option pour votre marque sportswear.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-13",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a4929622671d854db6698d5417115066.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 34,
       "featured": false
     }
   ]
