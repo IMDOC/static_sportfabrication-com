@@ -2,6 +2,23 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Vêtements de Yoga en Gros : Les Meilleures Pièces pour l'Automne",
+      "slug": "les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
+      "url": "/les-meilleures-pieces-de-vetements-de-yoga-en-gros-pour-un-automne-parfait",
+      "excerpt": "Découvrez les meilleures pièces de vêtements de yoga en gros pour l'automne : leggings thermiques, hauts longues manches, ensembles coordonnés et plus. Guide achat Q4.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-24",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/178d6b97-da78-41d5-93d3-6aabbbc153c5.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 15,
+      "featured": false
+    },
+    {
       "title": "3 Tendances de Motifs Leggings de Yoga Incontournables 2026",
       "slug": "3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
       "url": "/3-tendances-de-motifs-incontournables-pour-vos-leggings-de-yoga-en-2026",
