@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Shorts de Sport Personnalisés : Choisir les Modèles Best-Sellers",
+      "slug": "comment-choisir-les-modeles-de-shorts-de-sport-personnalises-les-plus-vendus",
+      "url": "/comment-choisir-les-modeles-de-shorts-de-sport-personnalises-les-plus-vendus",
+      "excerpt": "Guide pour choisir les modèles de shorts de sport personnalisés best-sellers : coupe, tissu, poches, ceinture et couleurs pour booster vos ventes.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-05",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/025f3309-3eb9-4925-813c-84228ec138d4.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 57,
+      "featured": true
+    },
+    {
       "title": "Comment choisir les bons vêtements de sport pour femme",
       "slug": "comment-choisir-les-bons-vetements-de-sport-pour-femme",
       "url": "/comment-choisir-les-bons-vetements-de-sport-pour-femme",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 56,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Comment choisir le maillot de bain idéal pour femme cet été ?",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 38,
-      "featured": false
-    },
-    {
-      "title": "Fabrication Vêtements de Sport : USA ou Étranger ? Guide Complet",
-      "slug": "fabrication-de-vetements-de-sport-usa-ou-etranger-le-guide-complet-pour-votre",
-      "url": "/fabrication-de-vetements-de-sport-usa-ou-etranger-le-guide-complet-pour-votre",
-      "excerpt": "USA ou étranger pour fabriquer vos vêtements de sport ? Comparez les coûts, la qualité et les délais pour choisir la bonne stratégie selon la phase de votre marque.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-16",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b8ebcee351c0c5ff9d52fcd970b2789f.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 37,
       "featured": false
     }
   ]
