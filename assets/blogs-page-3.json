@@ -2,6 +2,23 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Facteurs Clés de Croissance du Marché des Vêtements de Sport",
+      "slug": "les-facteurs-cles-de-la-croissance-du-marche-des-vetements-de-sport",
+      "url": "/les-facteurs-cles-de-la-croissance-du-marche-des-vetements-de-sport",
+      "excerpt": "Découvrez les facteurs clés qui alimentent la croissance du marché des vêtements de sport : demande consommateur, innovation matières, digital et macro-économie.",
+      "author": "Ryan Mitchell",
+      "date": "2026-06-27",
+      "category": "Category object (1)",
+      "thumbnail": "\\\"https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4e8c3241835f5e19e57d71e93f4c6e29.webp\\\"",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 18,
+      "featured": false
+    },
+    {
       "title": "Justaucorps Fitness et Danse : Le Grand Retour en 2024",
       "slug": "pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
       "url": "/pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
