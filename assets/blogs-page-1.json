@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Top 3 Soutiens-Gorge Sport à Maintien Élevé Testés",
+      "slug": "top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
+      "url": "/top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
+      "excerpt": "3 soutiens-gorge sport à maintien élevé testés en course, HIIT et CrossFit. Comparatif encapsulation vs compression pour stopper les rebonds.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-07",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/29bb9442-cdea-4073-a714-c011d61335aa.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 59,
+      "featured": true
+    },
+    {
       "title": "Vêtements de Yoga Personnalisés : Quelle Collection Lancer ?",
       "slug": "quelle-collection-de-vetements-de-yoga-personnalisee-choisir-pour-lancer-sa",
       "url": "/quelle-collection-de-vetements-de-yoga-personnalisee-choisir-pour-lancer-sa",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 58,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Shorts de Sport Personnalisés : Choisir les Modèles Best-Sellers",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 40,
-      "featured": false
-    },
-    {
-      "title": "Broderie vs Thermocollant pour Uniformes : Guide Complet",
-      "slug": "broderie-vs-thermocollant-pour-uniformes-avantages-inconvenients-et-meilleures",
-      "url": "/broderie-vs-thermocollant-pour-uniformes-avantages-inconvenients-et-meilleures",
-      "excerpt": "Broderie ou thermocollant pour vos uniformes ? Comparez durabilité, coût, compatibilité tissu et meilleures applications par secteur dans ce guide complet.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-18",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/761f6df9ed224a65366353159d52f682.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 39,
       "featured": false
     }
   ]
