@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Vêtements de Sport Homme : Guide Style & Performance",
+      "slug": "guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
+      "url": "/guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
+      "excerpt": "Guide complet pour choisir vos vêtements de sport homme selon votre morphologie et votre entraînement : hauts, bas, chaussures et tenues polyvalentes.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-08",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/02ce228a-2a85-4a2e-96a1-8743abd71430.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 60,
+      "featured": true
+    },
+    {
       "title": "Top 3 Soutiens-Gorge Sport à Maintien Élevé Testés",
       "slug": "top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
       "url": "/top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 59,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Vêtements de Yoga Personnalisés : Quelle Collection Lancer ?",
@@ -365,28 +382,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 41,
-      "featured": false
-    },
-    {
-      "title": "Couture Flatlock vs Surjet pour Vêtements de Compression",
-      "slug": "couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
-      "url": "/couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
-      "excerpt": "Flatlock ou surjet ? Découvrez quelle couture offre le meilleur confort et la meilleure durabilité pour vos vêtements de compression. Guide complet.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-19",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/80ae0d23-819c-405f-bdf9-dc03e827fef6.png",
-      "tags": [
-        {
-          "slug": "couture-surjet-sport",
-          "name": "couture surjet sport"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 40,
       "featured": false
     }
   ]
