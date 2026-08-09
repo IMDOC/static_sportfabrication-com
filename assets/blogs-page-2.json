@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "10 Meilleurs Tissus pour Vêtements de Sport : Guide Comparatif",
+      "slug": "10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
+      "url": "/10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
+      "excerpt": "Comparez les 10 meilleurs tissus pour vêtements de sport : polyester, nylon, spandex, mérinos et plus. Respirabilité, confort et performance décryptés.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-20",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a303d3b6-d9ce-4723-a24d-aa7c700e76c9.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 41,
+      "featured": false
+    },
+    {
       "title": "Couture Flatlock vs Surjet pour Vêtements de Compression",
       "slug": "couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
       "url": "/couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
@@ -337,23 +354,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 22,
-      "featured": false
-    },
-    {
-      "title": "Choisir un Fabricant de Vêtements de Sport en Gros : Guide Revendeurs",
-      "slug": "ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
-      "url": "/ce-que-les-revendeurs-doivent-savoir-avant-de-choisir-un-fabricant-de-vetements",
-      "excerpt": "Tout ce que les revendeurs doivent vérifier avant de choisir un fabricant de vêtements de sport en gros : qualité tissu, MOQ, contrats et matrice de décision.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-30",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/65563513-753f-40e2-82bd-f5ffa468fb3d.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 21,
       "featured": false
     }
   ]

@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Tendances Saisonnières Mode Australie : Guide Détaillants",
+      "slug": "tendances-saisonnieres-incontournables-pour-les-detaillants-de-vetements-en",
+      "url": "/tendances-saisonnieres-incontournables-pour-les-detaillants-de-vetements-en",
+      "excerpt": "Guide saisonnier pour détaillants australiens : quoi acheter, quand commander et combien de semaines d'avance prévoir pour éviter les stocks invendus.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-09",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/3270d116-ad8d-4146-a454-e7fab99d3f50.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 61,
+      "featured": true
+    },
+    {
       "title": "Vêtements de Sport Homme : Guide Style & Performance",
       "slug": "guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
       "url": "/guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 60,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Top 3 Soutiens-Gorge Sport à Maintien Élevé Testés",
@@ -365,23 +382,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 42,
-      "featured": false
-    },
-    {
-      "title": "10 Meilleurs Tissus pour Vêtements de Sport : Guide Comparatif",
-      "slug": "10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
-      "url": "/10-meilleurs-tissus-pour-vetements-de-sport-respirabilite-confort-et-performance",
-      "excerpt": "Comparez les 10 meilleurs tissus pour vêtements de sport : polyester, nylon, spandex, mérinos et plus. Respirabilité, confort et performance décryptés.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-20",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a303d3b6-d9ce-4723-a24d-aa7c700e76c9.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 41,
       "featured": false
     }
   ]
