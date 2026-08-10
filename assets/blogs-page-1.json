@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Pantalon de Yoga Sur Commande : Guide Fabricant Complet",
+      "slug": "pantalon-de-yoga-sur-commande-fabriquez-des-aujourd-hui-avec-votre-partenaire",
+      "url": "/pantalon-de-yoga-sur-commande-fabriquez-des-aujourd-hui-avec-votre-partenaire",
+      "excerpt": "Guide complet pour fabriquer des pantalons de yoga sur mesure : calendrier de production, coûts, MOQ et questions clés à poser à votre usine.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-10",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/06bada3e-d784-45f1-a94c-989f29326762.png",
+      "tags": [
+        {
+          "slug": "moq-pantalon-de-yoga",
+          "name": "MOQ pantalon de yoga"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 62,
+      "featured": true
+    },
+    {
       "title": "Tendances Saisonnières Mode Australie : Guide Détaillants",
       "slug": "tendances-saisonnieres-incontournables-pour-les-detaillants-de-vetements-en",
       "url": "/tendances-saisonnieres-incontournables-pour-les-detaillants-de-vetements-en",
@@ -16,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 61,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Vêtements de Sport Homme : Guide Style & Performance",
@@ -360,28 +382,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 43,
-      "featured": false
-    },
-    {
-      "title": "Meilleurs Tissus Vêtements de Golf 2026 : Confort & Performance",
-      "slug": "meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
-      "url": "/meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
-      "excerpt": "Découvrez les meilleurs tissus pour vêtements de golf en 2026 : polyester technique, mélanges élasthanne, laine mérinos et conseils B2B pour sourcer les matières idéales.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-21",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f3e60b147637eb718cde31982ebcdc58.webp",
-      "tags": [
-        {
-          "slug": "laine-m-rinos-golf",
-          "name": "laine mérinos golf"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 42,
       "featured": false
     }
   ]
