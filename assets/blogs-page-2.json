@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Coût, MOQ et Délais des Ensembles de Vêtements de Sport",
+      "slug": "cout-de-fabrication-moq-et-delais-des-ensembles-de-vetements-de-sport-le-guide",
+      "url": "/cout-de-fabrication-moq-et-delais-des-ensembles-de-vetements-de-sport-le-guide",
+      "excerpt": "Découvrez le coût de fabrication à l'unité, les seuils de MOQ et les délais de production des ensembles de vêtements de sport. Chiffrez votre collection avec précision.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a5357e29b656a3b22d67a0b412413d53.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 43,
+      "featured": false
+    },
+    {
       "title": "Meilleurs Tissus Vêtements de Golf 2026 : Confort & Performance",
       "slug": "meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
       "url": "/meilleurs-tissus-pour-vetements-de-golf-en-2026-choisir-les-matieres-pour-le",
@@ -342,23 +359,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 24,
-      "featured": false
-    },
-    {
-      "title": "Top 10 Vêtements de Sport Femme les Plus Achetés en 2026",
-      "slug": "top-10-vetements-de-sport-femme-les-plus-achetes-en-2026",
-      "url": "/top-10-vetements-de-sport-femme-les-plus-achetes-en-2026",
-      "excerpt": "Découvrez le top 10 des vêtements de sport femme les plus achetés en 2026, testés en conditions réelles — leggings, bras et shorts pour performer en salle et dehors.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-02",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f0d2e16c-05a6-48b0-84ae-14a16135da6c.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 23,
       "featured": false
     }
   ]
