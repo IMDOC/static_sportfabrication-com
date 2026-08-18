@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Que Porter pour Votre Premier Cours de Yoga ?",
+      "slug": "que-porter-pour-votre-premier-cours-de-yoga",
+      "url": "/que-porter-pour-votre-premier-cours-de-yoga",
+      "excerpt": "Que porter à votre premier cours de yoga ? Erreurs de débutant à éviter, 3 tenues prêtes à porter et conseils morphologie pour vous sentir à l'aise.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-18",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2c1c5b238bc7ea37f90b1f3ae9799bac.webp",
+      "tags": [
+        {
+          "slug": "leggings-yoga-prix",
+          "name": "leggings yoga prix"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 64,
+      "featured": true
+    },
+    {
       "title": "Équipement de Sport 2026 : Investissements pour Détaillants",
       "slug": "equipement-de-sport-les-meilleurs-investissements-pour-les-detailants-en-2026",
       "url": "/equipement-de-sport-les-meilleurs-investissements-pour-les-detailants-en-2026",
@@ -16,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 63,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Pantalon de Yoga Sur Commande : Guide Fabricant Complet",
@@ -360,28 +382,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 45,
-      "featured": false
-    },
-    {
-      "title": "10 Meilleures Marques de Vêtements de Sport Premium UK 2026",
-      "slug": "10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
-      "url": "/10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
-      "excerpt": "Découvrez les 10 meilleures marques de vêtements de sport premium au Royaume-Uni en 2026 : comparatif complet, points forts et conseils pour bien choisir.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-23",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a2b1e27f-29e5-410d-98de-9c6b1d404f05.png",
-      "tags": [
-        {
-          "slug": "leggings-premium-uk",
-          "name": "leggings premium UK"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 44,
       "featured": false
     }
   ]

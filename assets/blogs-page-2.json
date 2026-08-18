@@ -2,6 +2,28 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "10 Meilleures Marques de Vêtements de Sport Premium UK 2026",
+      "slug": "10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
+      "url": "/10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
+      "excerpt": "Découvrez les 10 meilleures marques de vêtements de sport premium au Royaume-Uni en 2026 : comparatif complet, points forts et conseils pour bien choisir.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-23",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/a2b1e27f-29e5-410d-98de-9c6b1d404f05.png",
+      "tags": [
+        {
+          "slug": "leggings-premium-uk",
+          "name": "leggings premium UK"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 44,
+      "featured": false
+    },
+    {
       "title": "Coût, MOQ et Délais des Ensembles de Vêtements de Sport",
       "slug": "cout-de-fabrication-moq-et-delais-des-ensembles-de-vetements-de-sport-le-guide",
       "url": "/cout-de-fabrication-moq-et-delais-des-ensembles-de-vetements-de-sport-le-guide",
@@ -342,23 +364,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 25,
-      "featured": false
-    },
-    {
-      "title": "7 Critères pour Choisir un Grossiste en Vêtements de Sport",
-      "slug": "7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
-      "url": "/7-criteres-essentiels-pour-choisir-un-grossiste-en-vetements-de-sport",
-      "excerpt": "Découvrez les 7 critères essentiels pour bien choisir votre grossiste en vêtements de sport : qualité, MOQ, délais, personnalisation OEM et bien plus.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-03",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/7f2f5eb0-f53f-488d-ad9a-72ed19f9f29b.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 24,
       "featured": false
     }
   ]
