@@ -2,6 +2,28 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "OEM vs ODM : Quel modèle de fabrication choisir pour votre marque ?",
+      "slug": "oem-vs-odm-quel-modele-de-fabrication-est-le-plus-rentable-pour-votre-marque-de",
+      "url": "/oem-vs-odm-quel-modele-de-fabrication-est-le-plus-rentable-pour-votre-marque-de",
+      "excerpt": "OEM ou ODM : découvrez quel modèle de fabrication est le plus rentable pour votre marque de vêtements de sport selon votre budget et vos objectifs.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-24",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f31b882a-3952-4fa0-8482-4e07ee94292d.png",
+      "tags": [
+        {
+          "slug": "rentabilit-oem-odm",
+          "name": "rentabilité OEM ODM"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 45,
+      "featured": false
+    },
+    {
       "title": "10 Meilleures Marques de Vêtements de Sport Premium UK 2026",
       "slug": "10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
       "url": "/10-meilleures-marques-de-vetements-de-sport-premium-au-royaume-uni-guide-2026",
@@ -347,23 +369,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 26,
-      "featured": false
-    },
-    {
-      "title": "Marché des Vêtements de Sport en 2026 : Pourquoi la Croissance s'Accélère",
-      "slug": "pourquoi-le-marche-des-vetements-de-sport-croit-plus-vite-que-jamais-en-2026",
-      "url": "/pourquoi-le-marche-des-vetements-de-sport-croit-plus-vite-que-jamais-en-2026",
-      "excerpt": "Découvrez pourquoi le marché mondial des vêtements de sport explose en 2026 : TCAC, tendances athleisure, fabric tech, commerce social et opportunités de niche.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-04",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/550cf4ec-334b-44c8-be5f-17929b138db7.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 25,
       "featured": false
     }
   ]
