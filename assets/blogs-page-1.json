@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Concevoir un Pantalon de Yoga en Marque Blanche : Guide Complet",
+      "slug": "comment-concevoir-votre-pantalon-de-yoga-en-marque-blanche",
+      "url": "/comment-concevoir-votre-pantalon-de-yoga-en-marque-blanche",
+      "excerpt": "Guide technique pour concevoir un pantalon de yoga en marque blanche : tissu, GSM, coutures, logo, MOQ, échantillons et Pantone. Tout ce qu'il faut savoir avant de contacter une usine.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-20",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6e8c3b7e-b129-4546-b187-92653e204821.png",
+      "tags": [
+        {
+          "slug": "moq-pantalon-de-yoga",
+          "name": "MOQ pantalon de yoga"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 66,
+      "featured": true
+    },
+    {
       "title": "10 Meilleurs Leggings de Sport à Vendre en 2026",
       "slug": "les-10-meilleurs-leggings-de-sport-pour-marques-d-activewear-a-vendre-en-2026",
       "url": "/les-10-meilleurs-leggings-de-sport-pour-marques-d-activewear-a-vendre-en-2026",
@@ -21,7 +43,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 65,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Que Porter pour Votre Premier Cours de Yoga ?",
@@ -365,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 47,
-      "featured": false
-    },
-    {
-      "title": "Meilleurs Tissus pour Vêtements de Compression : Guide Complet",
-      "slug": "meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
-      "url": "/meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
-      "excerpt": "Nylon, polyester ou coton-spandex ? Découvrez quels tissus offrent le meilleur maintien pour vos vêtements de compression selon votre sport et vos objectifs.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-25",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/db6cc89462c47a121172b56c1f60da56.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 46,
       "featured": false
     }
   ]
