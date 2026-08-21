@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Gymshark Vital vs Adapt : Quel Legging Est le Plus Performant ?",
+      "slug": "legging-gymshark-vital-ou-adapt-quelle-collection-est-vraiment-la-plus",
+      "url": "/legging-gymshark-vital-ou-adapt-quelle-collection-est-vraiment-la-plus",
+      "excerpt": "Gymshark Vital ou Adapt : comparatif complet du tissu, de la compression et de la ceinture pour choisir le legging idéal selon votre entraînement.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-26",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/afef1a72d8ca2148632f2e672389bfc4.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 47,
+      "featured": false
+    },
+    {
       "title": "Meilleurs Tissus pour Vêtements de Compression : Guide Complet",
       "slug": "meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
       "url": "/meilleurs-tissus-pour-vetements-de-compression-quel-materiau-offre-le-bon",
@@ -347,28 +364,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 28,
-      "featured": false
-    },
-    {
-      "title": "Dri-FIT vs Coton : Quel Tissu Choisir pour le Sport ?",
-      "slug": "dri-fit-vs-t-shirt-coton-quel-tissu-choisir-pour-un-mode-de-vie-actif",
-      "url": "/dri-fit-vs-t-shirt-coton-quel-tissu-choisir-pour-un-mode-de-vie-actif",
-      "excerpt": "Dri-FIT ou coton : lequel performe vraiment selon votre sport, votre climat et votre budget ? Comparatif complet avec données chiffrées et recommandations claires.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-06",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/91da4a37036f65f6c9c635bb28932d67.webp",
-      "tags": [
-        {
-          "slug": "dri-fit-vs-coton",
-          "name": "dri-fit vs coton"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 27,
       "featured": false
     }
   ]

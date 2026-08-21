@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Collection de Marathon 2026 : 5 Conseils pour Marques",
+      "slug": "5-conseils-pour-constituer-une-collection-de-tenues-de-marathon-pour-votre",
+      "url": "/5-conseils-pour-constituer-une-collection-de-tenues-de-marathon-pour-votre",
+      "excerpt": "Découvrez 5 conseils clés pour créer une collection de tenues de marathon performantes en 2026 : tissus, tests terrain, USP et calendrier de lancement.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-21",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/2825b44f-9703-4e91-9ef0-6ebb98531224.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 67,
+      "featured": true
+    },
+    {
       "title": "Concevoir un Pantalon de Yoga en Marque Blanche : Guide Complet",
       "slug": "comment-concevoir-votre-pantalon-de-yoga-en-marque-blanche",
       "url": "/comment-concevoir-votre-pantalon-de-yoga-en-marque-blanche",
@@ -21,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 66,
-      "featured": true
+      "featured": false
     },
     {
       "title": "10 Meilleurs Leggings de Sport à Vendre en 2026",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 48,
-      "featured": false
-    },
-    {
-      "title": "Gymshark Vital vs Adapt : Quel Legging Est le Plus Performant ?",
-      "slug": "legging-gymshark-vital-ou-adapt-quelle-collection-est-vraiment-la-plus",
-      "url": "/legging-gymshark-vital-ou-adapt-quelle-collection-est-vraiment-la-plus",
-      "excerpt": "Gymshark Vital ou Adapt : comparatif complet du tissu, de la compression et de la ceinture pour choisir le legging idéal selon votre entraînement.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-26",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/afef1a72d8ca2148632f2e672389bfc4.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 47,
       "featured": false
     }
   ]
