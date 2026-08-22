@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "5 Stratégies Éprouvées pour Booster vos Ventes de Maillots 2026",
+      "slug": "les-5-meilleures-strategies-eprouvees-pour-augmenter-les-ventes-de-maillots-de",
+      "url": "/les-5-meilleures-strategies-eprouvees-pour-augmenter-les-ventes-de-maillots-de",
+      "excerpt": "5 stratégies testées pour réduire les retours et augmenter vos ventes de maillots de bain en 2026 : quiz fitting, emails, météo, panier abandonné.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-22",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c690ed3d65c71bb4d78c7d3f83135a04.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 68,
+      "featured": true
+    },
+    {
       "title": "Collection de Marathon 2026 : 5 Conseils pour Marques",
       "slug": "5-conseils-pour-constituer-une-collection-de-tenues-de-marathon-pour-votre",
       "url": "/5-conseils-pour-constituer-une-collection-de-tenues-de-marathon-pour-votre",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 67,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Concevoir un Pantalon de Yoga en Marque Blanche : Guide Complet",
@@ -365,28 +382,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 49,
-      "featured": false
-    },
-    {
-      "title": "Nike Dri-FIT Breathe Run T-Shirt : Avis Complet 2026",
-      "slug": "test-du-nike-dri-fit-breathe-run-t-shirt-2026-caracteristiques-avantages-vaut-il",
-      "url": "/test-du-nike-dri-fit-breathe-run-t-shirt-2026-caracteristiques-avantages-vaut-il",
-      "excerpt": "Test complet du Nike Dri-FIT Breathe Run T-Shirt : ventilation, confort, durabilité et rapport qualité-prix. Avis honnête et sans filtre.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-27",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/84ed9a50a7c19fd82ca114eac3a4b67a.webp",
-      "tags": [
-        {
-          "slug": "avis-nike-dri-fit",
-          "name": "avis Nike Dri-FIT"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 48,
       "featured": false
     }
   ]
