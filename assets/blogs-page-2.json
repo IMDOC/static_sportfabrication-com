@@ -2,6 +2,28 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Align vs Wunder Train : Quel Legging Lululemon Choisir ?",
+      "slug": "legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
+      "url": "/legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
+      "excerpt": "Comparatif Align vs Wunder Train : compression, tissu, coupe. Découvrez quel legging Lululemon convient à votre type d'entraînement.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-28",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4ac9ee4c-064e-45ef-a7e5-2ab38d1d75d8.png",
+      "tags": [
+        {
+          "slug": "legging-align-yoga",
+          "name": "legging align yoga"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 49,
+      "featured": false
+    },
+    {
       "title": "Nike Dri-FIT Breathe Run T-Shirt : Avis Complet 2026",
       "slug": "test-du-nike-dri-fit-breathe-run-t-shirt-2026-caracteristiques-avantages-vaut-il",
       "url": "/test-du-nike-dri-fit-breathe-run-t-shirt-2026-caracteristiques-avantages-vaut-il",
@@ -352,23 +374,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 30,
-      "featured": false
-    },
-    {
-      "title": "Tissus Techniques : 4 Raisons de Choisir les Bons Vêtements de Sport",
-      "slug": "4-raisons-pour-lesquelles-les-tissus-techniques-font-la-difference-dans-les",
-      "url": "/4-raisons-pour-lesquelles-les-tissus-techniques-font-la-difference-dans-les",
-      "excerpt": "Découvrez pourquoi les tissus techniques transforment vos vêtements de sport : respirabilité, flexibilité, odeurs et durabilité expliquées en 4 points clés.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-08",
-      "category": "Category object (1)",
-      "thumbnail": "https://img.berunactivewear.com/assets/images/og-home.jpg",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 29,
       "featured": false
     }
   ]

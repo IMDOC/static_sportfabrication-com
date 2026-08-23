@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Meilleurs Vêtements d'Entraînement pour le Froid 2026",
+      "slug": "meilleurs-vetements-d-entrainement-pour-le-froid-en-2026",
+      "url": "/meilleurs-vetements-d-entrainement-pour-le-froid-en-2026",
+      "excerpt": "Guide 2026 des meilleurs vêtements d'entraînement pour le froid : couches de base, isolation et comparatif Nike, Patagonia, Arc'teryx et plus.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-23",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6c5f0742-aa57-4071-b941-7c3a44cfee63.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 69,
+      "featured": true
+    },
+    {
       "title": "5 Stratégies Éprouvées pour Booster vos Ventes de Maillots 2026",
       "slug": "les-5-meilleures-strategies-eprouvees-pour-augmenter-les-ventes-de-maillots-de",
       "url": "/les-5-meilleures-strategies-eprouvees-pour-augmenter-les-ventes-de-maillots-de",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 68,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Collection de Marathon 2026 : 5 Conseils pour Marques",
@@ -360,28 +377,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 50,
-      "featured": false
-    },
-    {
-      "title": "Align vs Wunder Train : Quel Legging Lululemon Choisir ?",
-      "slug": "legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
-      "url": "/legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
-      "excerpt": "Comparatif Align vs Wunder Train : compression, tissu, coupe. Découvrez quel legging Lululemon convient à votre type d'entraînement.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-28",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/4ac9ee4c-064e-45ef-a7e5-2ab38d1d75d8.png",
-      "tags": [
-        {
-          "slug": "legging-align-yoga",
-          "name": "legging align yoga"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 49,
       "featured": false
     }
   ]
