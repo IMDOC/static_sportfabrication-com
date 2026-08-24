@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Vuori Kore vs Banks Short : Sport ou Quotidien ?",
+      "slug": "vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
+      "url": "/vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
+      "excerpt": "Comparatif détaillé entre le Vuori Kore Short et le Banks Short : performances sportives, confort et usage quotidien testés en conditions réelles.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6f6a97e4-0016-4a6e-bca5-df97ee034426.png",
+      "tags": [
+        {
+          "slug": "vuori-kore-short",
+          "name": "vuori kore short"
+        },
+        {
+          "slug": "banks-short-vuori",
+          "name": "banks short vuori"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 50,
+      "featured": false
+    },
+    {
       "title": "Align vs Wunder Train : Quel Legging Lululemon Choisir ?",
       "slug": "legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
       "url": "/legging-lululemon-align-vs-wunder-train-lequel-choisir-selon-votre-entrainement",
@@ -352,28 +378,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 31,
-      "featured": false
-    },
-    {
-      "title": "5 Types d'Entraînement et Leurs Bienfaits pour les Femmes",
-      "slug": "cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
-      "url": "/cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
-      "excerpt": "Découvrez 5 types d'entraînement physique adaptés aux femmes : musculation, cardio, HIIT, yoga et entraînement fonctionnel. Conseils scientifiques et pratiques.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-09",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/26aef568006076525c16c196376c189e.webp",
-      "tags": [
-        {
-          "slug": "hiit-femme-r-sultats",
-          "name": "HIIT femme résultats"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 30,
       "featured": false
     }
   ]

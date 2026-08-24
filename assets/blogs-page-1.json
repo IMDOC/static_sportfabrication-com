@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Physique vs Bodybuilding : Différences Clés Expliquées",
+      "slug": "physique-vs-bodybuilding-differences-cles-en-entrainement-alimentation-et",
+      "url": "/physique-vs-bodybuilding-differences-cles-en-entrainement-alimentation-et",
+      "excerpt": "Physique ou Bodybuilding ? Découvrez les vraies différences d'entraînement, d'alimentation et de critères de jugement pour choisir votre division.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-24",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6b537e9863b7089a65727cc8cd244237.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 70,
+      "featured": true
+    },
+    {
       "title": "Meilleurs Vêtements d'Entraînement pour le Froid 2026",
       "slug": "meilleurs-vetements-d-entrainement-pour-le-froid-en-2026",
       "url": "/meilleurs-vetements-d-entrainement-pour-le-froid-en-2026",
@@ -16,7 +33,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 69,
-      "featured": true
+      "featured": false
     },
     {
       "title": "5 Stratégies Éprouvées pour Booster vos Ventes de Maillots 2026",
@@ -351,32 +368,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 51,
-      "featured": false
-    },
-    {
-      "title": "Vuori Kore vs Banks Short : Sport ou Quotidien ?",
-      "slug": "vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
-      "url": "/vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
-      "excerpt": "Comparatif détaillé entre le Vuori Kore Short et le Banks Short : performances sportives, confort et usage quotidien testés en conditions réelles.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-29",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/6f6a97e4-0016-4a6e-bca5-df97ee034426.png",
-      "tags": [
-        {
-          "slug": "vuori-kore-short",
-          "name": "vuori kore short"
-        },
-        {
-          "slug": "banks-short-vuori",
-          "name": "banks short vuori"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 50,
       "featured": false
     }
   ]

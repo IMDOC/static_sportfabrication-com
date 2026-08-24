@@ -2,6 +2,28 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "5 Types d'Entraînement et Leurs Bienfaits pour les Femmes",
+      "slug": "cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
+      "url": "/cinq-types-d-entrainement-physique-et-leurs-bienfaits-pour-les-femmes",
+      "excerpt": "Découvrez 5 types d'entraînement physique adaptés aux femmes : musculation, cardio, HIIT, yoga et entraînement fonctionnel. Conseils scientifiques et pratiques.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-09",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/26aef568006076525c16c196376c189e.webp",
+      "tags": [
+        {
+          "slug": "hiit-femme-r-sultats",
+          "name": "HIIT femme résultats"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 30,
+      "featured": false
+    },
+    {
       "title": "Tissus Techniques : 4 Raisons de Choisir les Bons Vêtements de Sport",
       "slug": "4-raisons-pour-lesquelles-les-tissus-techniques-font-la-difference-dans-les",
       "url": "/4-raisons-pour-lesquelles-les-tissus-techniques-font-la-difference-dans-les",
@@ -350,23 +372,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 11,
-      "featured": false
-    },
-    {
-      "title": "Top 9 Fournisseurs Vêtements de Yoga en Chine",
-      "slug": "top-9-fournisseurs-de-vetements-de-yoga-en-chine-guide-d-achat-en-gros-pour-les",
-      "url": "/top-9-fournisseurs-de-vetements-de-yoga-en-chine-guide-d-achat-en-gros-pour-les",
-      "excerpt": "Comparez les 9 meilleurs fabricants OEM de vêtements de yoga en Chine : MOQ réels, délais, technologie tissu et conseils pour choisir le bon fournisseur.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-19",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c17c56ae-a892-4ed9-b1d5-95a439c1fee9.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 10,
       "featured": false
     }
   ]
