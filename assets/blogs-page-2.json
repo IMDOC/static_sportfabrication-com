@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "AEROREADY vs HEAT.RDY : Comparatif Technique Complet",
+      "slug": "adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
+      "url": "/adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
+      "excerpt": "AEROREADY ou HEAT.RDY ? Comparez tissu, respirabilité, coupe et prix pour choisir la technologie Adidas adaptée à votre usage sportif.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-30",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11e7130a49c12637cee6fe53513d0185.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 51,
+      "featured": false
+    },
+    {
       "title": "Vuori Kore vs Banks Short : Sport ou Quotidien ?",
       "slug": "vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
       "url": "/vuori-kore-vs-banks-short-lequel-choisir-pour-le-sport-et-le-quotidien",
@@ -361,23 +378,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 32,
-      "featured": false
-    },
-    {
-      "title": "Top 12 Fabricants de Vêtements de Sport Personnalisés aux USA",
-      "slug": "top-12-fabricants-de-vetements-de-sport-personnalises-aux-etats-unis",
-      "url": "/top-12-fabricants-de-vetements-de-sport-personnalises-aux-etats-unis",
-      "excerpt": "Découvrez les 12 meilleurs fabricants de vêtements de sport personnalisés aux États-Unis : qualité, MOQ, délais et conseils pour choisir le bon partenaire.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-10",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/0af4b867-5e64-4907-8437-ab0340615bb3.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 31,
       "featured": false
     }
   ]

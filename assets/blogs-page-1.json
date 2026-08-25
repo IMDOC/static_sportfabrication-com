@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Les Avantages de Choisir les Bons Vêtements de Sport",
+      "slug": "les-avantages-de-choisir-les-bons-vetements-de-sport",
+      "url": "/les-avantages-de-choisir-les-bons-vetements-de-sport",
+      "excerpt": "Découvrez comment bien choisir vos vêtements de sport : respirabilité, compression, liberté de mouvement et durabilité pour optimiser vos entraînements.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-25",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9deaad189b02aa8289bf8ff42f3cf1b6.webp",
+      "tags": [
+        {
+          "slug": "v-tements-de-sport",
+          "name": "vêtements de sport"
+        },
+        {
+          "slug": "compression-sportive",
+          "name": "compression sportive"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 71,
+      "featured": true
+    },
+    {
       "title": "Physique vs Bodybuilding : Différences Clés Expliquées",
       "slug": "physique-vs-bodybuilding-differences-cles-en-entrainement-alimentation-et",
       "url": "/physique-vs-bodybuilding-differences-cles-en-entrainement-alimentation-et",
@@ -16,7 +42,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 70,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Meilleurs Vêtements d'Entraînement pour le Froid 2026",
@@ -351,23 +377,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 52,
-      "featured": false
-    },
-    {
-      "title": "AEROREADY vs HEAT.RDY : Comparatif Technique Complet",
-      "slug": "adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
-      "url": "/adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
-      "excerpt": "AEROREADY ou HEAT.RDY ? Comparez tissu, respirabilité, coupe et prix pour choisir la technologie Adidas adaptée à votre usage sportif.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-30",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11e7130a49c12637cee6fe53513d0185.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 51,
       "featured": false
     }
   ]
