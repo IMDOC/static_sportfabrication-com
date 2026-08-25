@@ -200,6 +200,22 @@
       "aliases": [
         "moq leggings oem"
       ]
+    },
+    {
+      "slug": "v-tements-de-sport",
+      "name": "vêtements de sport",
+      "description": "Articles and resources tagged vêtements de sport.",
+      "aliases": [
+        "vêtements de sport"
+      ]
+    },
+    {
+      "slug": "compression-sportive",
+      "name": "compression sportive",
+      "description": "Articles and resources tagged compression sportive.",
+      "aliases": [
+        "compression sportive"
+      ]
     }
   ]
 }
