@@ -2,6 +2,36 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "3 Vêtements de Sport Indispensables pour la Salle de Gym",
+      "slug": "3-vetements-de-sport-pour-avoir-fiere-allure-a-la-salle-de-gym",
+      "url": "/3-vetements-de-sport-pour-avoir-fiere-allure-a-la-salle-de-gym",
+      "excerpt": "Découvrez les 3 vêtements de sport indispensables pour être à l'aise et avoir fière allure à la salle de gym, testés par un coach expérimenté.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-26",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8eceb0d2c5cb2936d0282e9f81cd411.webp",
+      "tags": [
+        {
+          "slug": "v-tements-de-sport",
+          "name": "vêtements de sport"
+        },
+        {
+          "slug": "tenue-de-gym",
+          "name": "tenue de gym"
+        },
+        {
+          "slug": "leggings-de-sport",
+          "name": "leggings de sport"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 72,
+      "featured": true
+    },
+    {
       "title": "Les Avantages de Choisir les Bons Vêtements de Sport",
       "slug": "les-avantages-de-choisir-les-bons-vetements-de-sport",
       "url": "/les-avantages-de-choisir-les-bons-vetements-de-sport",
@@ -25,7 +55,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 71,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Physique vs Bodybuilding : Différences Clés Expliquées",
@@ -351,32 +381,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 53,
-      "featured": false
-    },
-    {
-      "title": "Under Armour HeatGear vs ColdGear : Lequel Choisir ?",
-      "slug": "under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
-      "url": "/under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
-      "excerpt": "Under Armour HeatGear ou ColdGear ? Découvrez les différences techniques et choisissez la meilleure collection selon température, sport et budget.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-31",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e66ebe504a1986af14781ae5e1bd1e61.webp",
-      "tags": [
-        {
-          "slug": "heatgear-vs-coldgear",
-          "name": "HeatGear vs ColdGear"
-        },
-        {
-          "slug": "couche-de-base-sport",
-          "name": "couche de base sport"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 52,
       "featured": false
     }
   ]

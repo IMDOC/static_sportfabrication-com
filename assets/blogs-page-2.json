@@ -2,6 +2,32 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Under Armour HeatGear vs ColdGear : Lequel Choisir ?",
+      "slug": "under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
+      "url": "/under-armour-heatgear-vs-coldgear-quelle-collection-est-la-plus-performante",
+      "excerpt": "Under Armour HeatGear ou ColdGear ? Découvrez les différences techniques et choisissez la meilleure collection selon température, sport et budget.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-31",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e66ebe504a1986af14781ae5e1bd1e61.webp",
+      "tags": [
+        {
+          "slug": "heatgear-vs-coldgear",
+          "name": "HeatGear vs ColdGear"
+        },
+        {
+          "slug": "couche-de-base-sport",
+          "name": "couche de base sport"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 52,
+      "featured": false
+    },
+    {
       "title": "AEROREADY vs HEAT.RDY : Comparatif Technique Complet",
       "slug": "adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
       "url": "/adidas-aeroready-vs-heat-rdy-quelle-technologie-de-vetement-de-sport-est-la",
@@ -361,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 33,
-      "featured": false
-    },
-    {
-      "title": "Fabricants Sportswear : Chine vs Vietnam – Comment Choisir",
-      "slug": "fabricants-de-vetements-de-sport-chine-vs-vietnam-avantages-inconvenients-et",
-      "url": "/fabricants-de-vetements-de-sport-chine-vs-vietnam-avantages-inconvenients-et",
-      "excerpt": "Chine ou Vietnam pour votre ligne de vêtements de sport ? Comparez coûts, MOQ, délais et risques tarifaires pour choisir le bon fabricant OEM activewear.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-11",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/99f397b9d3c232f53a90b291774a4129.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 32,
       "featured": false
     }
   ]
