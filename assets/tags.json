@@ -216,6 +216,22 @@
       "aliases": [
         "compression sportive"
       ]
+    },
+    {
+      "slug": "tenue-de-gym",
+      "name": "tenue de gym",
+      "description": "Articles and resources tagged tenue de gym.",
+      "aliases": [
+        "tenue de gym"
+      ]
+    },
+    {
+      "slug": "leggings-de-sport",
+      "name": "leggings de sport",
+      "description": "Articles and resources tagged leggings de sport.",
+      "aliases": [
+        "leggings de sport"
+      ]
     }
   ]
 }
