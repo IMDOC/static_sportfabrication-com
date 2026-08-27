@@ -2,6 +2,32 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Maillots de Bain Tendance Été 2024 : 7 Styles à Connaître",
+      "slug": "les-tendances-maillots-de-bain-qui-vont-enflammer-l-ete-2024",
+      "url": "/les-tendances-maillots-de-bain-qui-vont-enflammer-l-ete-2024",
+      "excerpt": "Découvrez les 7 tendances maillots de bain incontournables de l'été 2024 : découpes, néon, crochet, string bikini et éco-responsable.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-27",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/5920d9644cadc305fafeec7379beda3f.webp",
+      "tags": [
+        {
+          "slug": "maillot-de-bain-n-on",
+          "name": "maillot de bain néon"
+        },
+        {
+          "slug": "string-bikini-2024",
+          "name": "string bikini 2024"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 73,
+      "featured": true
+    },
+    {
       "title": "3 Vêtements de Sport Indispensables pour la Salle de Gym",
       "slug": "3-vetements-de-sport-pour-avoir-fiere-allure-a-la-salle-de-gym",
       "url": "/3-vetements-de-sport-pour-avoir-fiere-allure-a-la-salle-de-gym",
@@ -29,7 +55,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 72,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Les Avantages de Choisir les Bons Vêtements de Sport",
@@ -364,23 +390,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 54,
-      "featured": false
-    },
-    {
-      "title": "Alo Airlift vs Airbrush Leggings : Quelle est la différence ?",
-      "slug": "alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
-      "url": "/alo-airlift-vs-airbrush-leggings-quelle-est-la-difference",
-      "excerpt": "Alo Airlift ou Airbrush ? Comparez tissu, compression, effet sculptant et morphologie pour choisir le bon legging Alo Yoga selon votre entraînement.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-01",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/fa46540109f625de7079b3aee39704aa.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 53,
       "featured": false
     }
   ]
