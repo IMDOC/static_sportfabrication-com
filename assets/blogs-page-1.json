@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Vêtements de Sport en Gros : Pièces Incontournables à Commander",
+      "slug": "vetements-de-sport-en-gros-les-pieces-incontournables-a-commander",
+      "url": "/vetements-de-sport-en-gros-les-pieces-incontournables-a-commander",
+      "excerpt": "Découvrez quelles pièces de vêtements de sport en gros commander en priorité pour maximiser vos marges et éviter les stocks invendus.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-28",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9b7394a851e621b13adf84424f109fe1.webp",
+      "tags": [
+        {
+          "slug": "leggings-en-gros",
+          "name": "leggings en gros"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 74,
+      "featured": true
+    },
+    {
       "title": "Maillots de Bain Tendance Été 2024 : 7 Styles à Connaître",
       "slug": "les-tendances-maillots-de-bain-qui-vont-enflammer-l-ete-2024",
       "url": "/les-tendances-maillots-de-bain-qui-vont-enflammer-l-ete-2024",
@@ -25,7 +47,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 73,
-      "featured": true
+      "featured": false
     },
     {
       "title": "3 Vêtements de Sport Indispensables pour la Salle de Gym",
@@ -373,23 +395,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 55,
-      "featured": false
-    },
-    {
-      "title": "5 Étapes Clés du Contrôle Qualité en Vêtements de Sport",
-      "slug": "5-etapes-cles-du-controle-qualite-pour-les-marques-de-vetements-de-sport",
-      "url": "/5-etapes-cles-du-controle-qualite-pour-les-marques-de-vetements-de-sport",
-      "excerpt": "Découvrez les 5 étapes essentielles du contrôle qualité pour les marques de vêtements de sport, du tissu à l'inspection finale avant expédition.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-02",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/c30c840e-7a02-4055-abae-12936af65fec.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 54,
       "featured": false
     }
   ]
