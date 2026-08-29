@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Comment choisir ses vêtements du bas selon sa morphologie ?",
+      "slug": "comment-choisir-ses-vetements-du-bas-selon-sa-morphologie",
+      "url": "/comment-choisir-ses-vetements-du-bas-selon-sa-morphologie",
+      "excerpt": "Découvrez comment choisir vos vêtements du bas (pantalon, jean, legging) selon votre morphologie : poire, pomme, sablier ou rectangle.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-29",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/11980e347831a0f1dc6ab772c5d63d3f.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 75,
+      "featured": true
+    },
+    {
       "title": "Vêtements de Sport en Gros : Pièces Incontournables à Commander",
       "slug": "vetements-de-sport-en-gros-les-pieces-incontournables-a-commander",
       "url": "/vetements-de-sport-en-gros-les-pieces-incontournables-a-commander",
@@ -21,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 74,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Maillots de Bain Tendance Été 2024 : 7 Styles à Connaître",
@@ -378,23 +395,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 56,
-      "featured": false
-    },
-    {
-      "title": "Comment choisir le maillot de bain idéal pour femme cet été ?",
-      "slug": "comment-choisir-le-maillot-de-bain-ideal-pour-femme-cet-ete",
-      "url": "/comment-choisir-le-maillot-de-bain-ideal-pour-femme-cet-ete",
-      "excerpt": "Découvrez comment choisir le maillot de bain idéal selon votre morphologie : poire, pomme, sablier, triangle inversé ou rectangle.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-03",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e6e93aad-64b1-430c-9904-c396f931fd79.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 55,
       "featured": false
     }
   ]
