@@ -2,6 +2,23 @@
   "pageNumber": 2,
   "blogs": [
     {
+      "title": "Comment choisir les bons vêtements de sport pour femme",
+      "slug": "comment-choisir-les-bons-vetements-de-sport-pour-femme",
+      "url": "/comment-choisir-les-bons-vetements-de-sport-pour-femme",
+      "excerpt": "Guide pratique pour choisir les vêtements de sport idéaux pour femme : soutien-gorge, tissu et coupe selon yoga, course ou musculation.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-04",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8ac1e09-f271-49e1-a48f-2f9d23a8cde3.png",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 56,
+      "featured": false
+    },
+    {
       "title": "Comment choisir le maillot de bain idéal pour femme cet été ?",
       "slug": "comment-choisir-le-maillot-de-bain-ideal-pour-femme-cet-ete",
       "url": "/comment-choisir-le-maillot-de-bain-ideal-pour-femme-cet-ete",
@@ -370,23 +387,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 37,
-      "featured": false
-    },
-    {
-      "title": "Transfert thermique vs sérigraphie : quelle impression dure le plus ?",
-      "slug": "transfert-thermique-vs-serigraphie-quelle-methode-d-impression-de-logo-dure-le",
-      "url": "/transfert-thermique-vs-serigraphie-quelle-methode-d-impression-de-logo-dure-le",
-      "excerpt": "Transfert thermique ou sérigraphie : découvrez quelle méthode d'impression de logo résiste le mieux aux lavages et à l'usage sportif intensif.",
-      "author": "Ryan Mitchell",
-      "date": "2026-07-15",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f2364086-9ceb-4566-bd55-056533e2e1b1.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 36,
       "featured": false
     }
   ]

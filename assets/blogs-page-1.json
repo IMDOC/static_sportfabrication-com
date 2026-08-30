@@ -2,6 +2,28 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Sportswear Parfait pour Femmes Fitness : Guide par Entraînement",
+      "slug": "les-pieces-de-sportswear-parfaites-pour-les-femmes-accros-au-fitness",
+      "url": "/les-pieces-de-sportswear-parfaites-pour-les-femmes-accros-au-fitness",
+      "excerpt": "Guide testé pour choisir le bon sportswear selon votre entraînement : musculation, HIIT, yoga, course. Trouvez votre tenue idéale en 5 minutes.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-30",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b5fcfe49-0910-421a-89ae-662bc9089744.png",
+      "tags": [
+        {
+          "slug": "tenue-hiit-femme",
+          "name": "tenue HIIT femme"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 76,
+      "featured": true
+    },
+    {
       "title": "Comment choisir ses vêtements du bas selon sa morphologie ?",
       "slug": "comment-choisir-ses-vetements-du-bas-selon-sa-morphologie",
       "url": "/comment-choisir-ses-vetements-du-bas-selon-sa-morphologie",
@@ -16,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 75,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Vêtements de Sport en Gros : Pièces Incontournables à Commander",
@@ -378,23 +400,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 57,
-      "featured": false
-    },
-    {
-      "title": "Comment choisir les bons vêtements de sport pour femme",
-      "slug": "comment-choisir-les-bons-vetements-de-sport-pour-femme",
-      "url": "/comment-choisir-les-bons-vetements-de-sport-pour-femme",
-      "excerpt": "Guide pratique pour choisir les vêtements de sport idéaux pour femme : soutien-gorge, tissu et coupe selon yoga, course ou musculation.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-04",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/e8ac1e09-f271-49e1-a48f-2f9d23a8cde3.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 56,
       "featured": false
     }
   ]
