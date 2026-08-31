@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Pantalon de survêtement homme : 5 bienfaits musculation",
+      "slug": "pantalon-de-survetement-homme-5-bienfaits-pour-la-musculation-et-l-entrainement",
+      "url": "/pantalon-de-survetement-homme-5-bienfaits-pour-la-musculation-et-l-entrainement",
+      "excerpt": "5 bienfaits prouvés du pantalon de survêtement homme pour la musculation : chaleur musculaire, protection cutanée, gestion de la transpiration et plus.",
+      "author": "Ryan Mitchell",
+      "date": "2026-08-31",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/079d319de63229f078305a5d21a81142.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 77,
+      "featured": true
+    },
+    {
       "title": "Sportswear Parfait pour Femmes Fitness : Guide par Entraînement",
       "slug": "les-pieces-de-sportswear-parfaites-pour-les-femmes-accros-au-fitness",
       "url": "/les-pieces-de-sportswear-parfaites-pour-les-femmes-accros-au-fitness",
@@ -21,7 +38,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 76,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Comment choisir ses vêtements du bas selon sa morphologie ?",
@@ -383,23 +400,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 58,
-      "featured": false
-    },
-    {
-      "title": "Shorts de Sport Personnalisés : Choisir les Modèles Best-Sellers",
-      "slug": "comment-choisir-les-modeles-de-shorts-de-sport-personnalises-les-plus-vendus",
-      "url": "/comment-choisir-les-modeles-de-shorts-de-sport-personnalises-les-plus-vendus",
-      "excerpt": "Guide pour choisir les modèles de shorts de sport personnalisés best-sellers : coupe, tissu, poches, ceinture et couleurs pour booster vos ventes.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-05",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/025f3309-3eb9-4925-813c-84228ec138d4.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 57,
       "featured": false
     }
   ]

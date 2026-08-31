@@ -2,6 +2,23 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Fabrication Vêtements de Sport : USA ou Étranger ? Guide Complet",
+      "slug": "fabrication-de-vetements-de-sport-usa-ou-etranger-le-guide-complet-pour-votre",
+      "url": "/fabrication-de-vetements-de-sport-usa-ou-etranger-le-guide-complet-pour-votre",
+      "excerpt": "USA ou étranger pour fabriquer vos vêtements de sport ? Comparez les coûts, la qualité et les délais pour choisir la bonne stratégie selon la phase de votre marque.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-16",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/b8ebcee351c0c5ff9d52fcd970b2789f.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 37,
+      "featured": false
+    },
+    {
       "title": "Transfert thermique vs sérigraphie : quelle impression dure le plus ?",
       "slug": "transfert-thermique-vs-serigraphie-quelle-methode-d-impression-de-logo-dure-le",
       "url": "/transfert-thermique-vs-serigraphie-quelle-methode-d-impression-de-logo-dure-le",
@@ -332,32 +349,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 18,
-      "featured": false
-    },
-    {
-      "title": "Justaucorps Fitness et Danse : Le Grand Retour en 2024",
-      "slug": "pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
-      "url": "/pourquoi-le-justaucorps-fait-son-grand-retour-dans-la-mode-fitness-et-danse",
-      "excerpt": "Découvrez pourquoi le justaucorps reconquiert la mode fitness et danse en 2024 : avantages de performance, comparatifs et conseils pour choisir votre modèle.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-26",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9910d97f0c0683910914a6c8e577bf7a.webp",
-      "tags": [
-        {
-          "slug": "justaucorps-fitness",
-          "name": "justaucorps fitness"
-        },
-        {
-          "slug": "bodysuit-sport-femme",
-          "name": "bodysuit sport femme"
-        }
-      ],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 17,
       "featured": false
     }
   ]
