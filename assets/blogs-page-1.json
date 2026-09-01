@@ -2,6 +2,36 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Leggings Parfaits pour un Look de Nouvel An Réussi",
+      "slug": "des-leggings-parfaits-pour-votre-look-du-nouvel-an",
+      "url": "/des-leggings-parfaits-pour-votre-look-du-nouvel-an",
+      "excerpt": "12 looks en leggings pour le Nouvel An : réunions de famille, soirées entre amis, fêtes en ville et visites, avec astuces coupe et tissu anti-transparence.",
+      "author": "Ryan Mitchell",
+      "date": "2026-09-01",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9288560fadeea3876969ab71fc3ac6cd.webp",
+      "tags": [
+        {
+          "slug": "leggings-nouvel-an",
+          "name": "leggings nouvel an"
+        },
+        {
+          "slug": "look-leggings-hiver",
+          "name": "look leggings hiver"
+        },
+        {
+          "slug": "leggings-festifs",
+          "name": "leggings festifs"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 78,
+      "featured": true
+    },
+    {
       "title": "Pantalon de survêtement homme : 5 bienfaits musculation",
       "slug": "pantalon-de-survetement-homme-5-bienfaits-pour-la-musculation-et-l-entrainement",
       "url": "/pantalon-de-survetement-homme-5-bienfaits-pour-la-musculation-et-l-entrainement",
@@ -16,7 +46,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 77,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Sportswear Parfait pour Femmes Fitness : Guide par Entraînement",
@@ -383,23 +413,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 59,
-      "featured": false
-    },
-    {
-      "title": "Vêtements de Yoga Personnalisés : Quelle Collection Lancer ?",
-      "slug": "quelle-collection-de-vetements-de-yoga-personnalisee-choisir-pour-lancer-sa",
-      "url": "/quelle-collection-de-vetements-de-yoga-personnalisee-choisir-pour-lancer-sa",
-      "excerpt": "Comment choisir sa première collection de vêtements de yoga personnalisés : archétypes, matrice SKU, MOQ et trésorerie pour lancer sa marque sans surstock.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-06",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/9f6165b5f8a3e226dd792d3d1dc137bc.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 58,
       "featured": false
     }
   ]
