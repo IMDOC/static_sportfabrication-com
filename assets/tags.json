@@ -264,6 +264,30 @@
       "aliases": [
         "tenue hiit femme"
       ]
+    },
+    {
+      "slug": "leggings-nouvel-an",
+      "name": "leggings nouvel an",
+      "description": "Articles and resources tagged leggings nouvel an.",
+      "aliases": [
+        "leggings nouvel an"
+      ]
+    },
+    {
+      "slug": "look-leggings-hiver",
+      "name": "look leggings hiver",
+      "description": "Articles and resources tagged look leggings hiver.",
+      "aliases": [
+        "look leggings hiver"
+      ]
+    },
+    {
+      "slug": "leggings-festifs",
+      "name": "leggings festifs",
+      "description": "Articles and resources tagged leggings festifs.",
+      "aliases": [
+        "leggings festifs"
+      ]
     }
   ]
 }
