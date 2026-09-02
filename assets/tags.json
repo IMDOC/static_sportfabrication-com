@@ -288,6 +288,30 @@
       "aliases": [
         "leggings festifs"
       ]
+    },
+    {
+      "slug": "v-tements-de-yoga",
+      "name": "vêtements de yoga",
+      "description": "Articles and resources tagged vêtements de yoga.",
+      "aliases": [
+        "vêtements de yoga"
+      ]
+    },
+    {
+      "slug": "leggings-yoga",
+      "name": "leggings yoga",
+      "description": "Articles and resources tagged leggings yoga.",
+      "aliases": [
+        "leggings yoga"
+      ]
+    },
+    {
+      "slug": "tenue-yoga-flow",
+      "name": "tenue yoga flow",
+      "description": "Articles and resources tagged tenue yoga flow.",
+      "aliases": [
+        "tenue yoga flow"
+      ]
     }
   ]
 }
