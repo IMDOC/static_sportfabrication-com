@@ -2,6 +2,36 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Vêtements de Yoga : Les Indispensables pour Votre Pratique",
+      "slug": "vetements-de-yoga-les-indispensables-pour-votre-pratique",
+      "url": "/vetements-de-yoga-les-indispensables-pour-votre-pratique",
+      "excerpt": "Comparatif des meilleures pièces de vêtements de yoga par type de pratique (flow, hot yoga, restauratif) avec avis testés en conditions réelles.",
+      "author": "Ryan Mitchell",
+      "date": "2026-09-02",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f942c409a125a50b4030e8314e00b777.webp",
+      "tags": [
+        {
+          "slug": "tenue-yoga-flow",
+          "name": "tenue yoga flow"
+        },
+        {
+          "slug": "v-tements-de-yoga",
+          "name": "vêtements de yoga"
+        },
+        {
+          "slug": "leggings-yoga",
+          "name": "leggings yoga"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 79,
+      "featured": true
+    },
+    {
       "title": "Leggings Parfaits pour un Look de Nouvel An Réussi",
       "slug": "des-leggings-parfaits-pour-votre-look-du-nouvel-an",
       "url": "/des-leggings-parfaits-pour-votre-look-du-nouvel-an",
@@ -29,7 +59,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 78,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Pantalon de survêtement homme : 5 bienfaits musculation",
@@ -396,23 +426,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 60,
-      "featured": false
-    },
-    {
-      "title": "Top 3 Soutiens-Gorge Sport à Maintien Élevé Testés",
-      "slug": "top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
-      "url": "/top-3-modeles-de-soutien-gorge-sport-a-maintien-eleve-indispensables-pour-votre",
-      "excerpt": "3 soutiens-gorge sport à maintien élevé testés en course, HIIT et CrossFit. Comparatif encapsulation vs compression pour stopper les rebonds.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-07",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/29bb9442-cdea-4073-a714-c011d61335aa.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 59,
       "featured": false
     }
   ]
