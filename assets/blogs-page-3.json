@@ -2,6 +2,28 @@
   "pageNumber": 3,
   "blogs": [
     {
+      "title": "Couture Flatlock vs Surjet pour Vêtements de Compression",
+      "slug": "couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
+      "url": "/couture-flatlock-vs-surjet-quelle-couture-est-la-meilleure-pour-les-vetements-de",
+      "excerpt": "Flatlock ou surjet ? Découvrez quelle couture offre le meilleur confort et la meilleure durabilité pour vos vêtements de compression. Guide complet.",
+      "author": "Ryan Mitchell",
+      "date": "2026-07-19",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/80ae0d23-819c-405f-bdf9-dc03e827fef6.png",
+      "tags": [
+        {
+          "slug": "couture-surjet-sport",
+          "name": "couture surjet sport"
+        }
+      ],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 40,
+      "featured": false
+    },
+    {
       "title": "Broderie vs Thermocollant pour Uniformes : Guide Complet",
       "slug": "broderie-vs-thermocollant-pour-uniformes-avantages-inconvenients-et-meilleures",
       "url": "/broderie-vs-thermocollant-pour-uniformes-avantages-inconvenients-et-meilleures",
@@ -332,23 +354,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 21,
-      "featured": false
-    },
-    {
-      "title": "Choisir un fabricant de vêtements blancs pour votre marque",
-      "slug": "comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
-      "url": "/comment-choisir-le-bon-fabricant-de-vetements-blancs-pour-votre-marque",
-      "excerpt": "Découvrez comment évaluer et choisir le bon fabricant de vêtements blancs pour votre marque grâce à notre grille en 8 dimensions et nos critères techniques.",
-      "author": "Ryan Mitchell",
-      "date": "2026-06-29",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/f88ab0612ef0aa983e528effb014f332.webp",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 20,
       "featured": false
     }
   ]

@@ -2,6 +2,23 @@
   "pageNumber": 1,
   "blogs": [
     {
+      "title": "Équipement de Course pour Débutants : Guide Essentiel",
+      "slug": "equipement-de-course-incontournable-pour-les-debutants",
+      "url": "/equipement-de-course-incontournable-pour-les-debutants",
+      "excerpt": "Guide pratique de l'équipement de course pour débutants : chaussures, chaussettes, anti-frottements et plus, sans gaspiller votre budget.",
+      "author": "Ryan Mitchell",
+      "date": "2026-09-03",
+      "category": "Category object (1)",
+      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/22becc405dea67849387c60e793a93ca.webp",
+      "tags": [],
+      "readTime": "7 min de lecture",
+      "categorySlug": "category-object-1",
+      "authorTitle": "Directeur de Production et Sourcing",
+      "authorSlug": "ryan-mitchell",
+      "id": 80,
+      "featured": true
+    },
+    {
       "title": "Vêtements de Yoga : Les Indispensables pour Votre Pratique",
       "slug": "vetements-de-yoga-les-indispensables-pour-votre-pratique",
       "url": "/vetements-de-yoga-les-indispensables-pour-votre-pratique",
@@ -29,7 +46,7 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 79,
-      "featured": true
+      "featured": false
     },
     {
       "title": "Leggings Parfaits pour un Look de Nouvel An Réussi",
@@ -409,23 +426,6 @@
       "authorTitle": "Directeur de Production et Sourcing",
       "authorSlug": "ryan-mitchell",
       "id": 61,
-      "featured": false
-    },
-    {
-      "title": "Vêtements de Sport Homme : Guide Style & Performance",
-      "slug": "guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
-      "url": "/guide-du-vetement-de-sport-pour-hommes-soucieux-de-leur-style",
-      "excerpt": "Guide complet pour choisir vos vêtements de sport homme selon votre morphologie et votre entraînement : hauts, bas, chaussures et tenues polyvalentes.",
-      "author": "Ryan Mitchell",
-      "date": "2026-08-08",
-      "category": "Category object (1)",
-      "thumbnail": "https://docerp.s3.us-west-1.amazonaws.com/images/p_14/d_default/02ce228a-2a85-4a2e-96a1-8743abd71430.png",
-      "tags": [],
-      "readTime": "7 min de lecture",
-      "categorySlug": "category-object-1",
-      "authorTitle": "Directeur de Production et Sourcing",
-      "authorSlug": "ryan-mitchell",
-      "id": 60,
       "featured": false
     }
   ]
